@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi bağlantı hizmeti</string>
+    <string name="assist_center_title">Şu anda kullanılıyor</string>
+    <string name="assist_center_traffic_title">Kalan</string>
+    <string name="assist_key1_title">Bugün kullanıldı</string>
+    <string name="assist_key2_title">Veri planı</string>
+    <string name="gb">GB</string>
+    <string name="kb">KB</string>
+    <string name="mb">MB</string>
+    <string name="noti_key1_today_used">Bugün: %1$s</string>
+    <string name="noti_key2_remain">Kalan: %1$s</string>
+    <string name="noti_key2_used">Kullanıldı: %1$s</string>
+    <string name="noti_key3">Detaylar ></string>
+</resources>

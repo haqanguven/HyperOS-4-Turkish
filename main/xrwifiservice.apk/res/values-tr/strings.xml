@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XR wifi hizmeti</string>
+    <string name="notification_channel_id">XRWifi hizmeti</string>
+    <string name="notification_channel_name">Ortak</string>
+    <string name="running_text">Arka planda çalışıyor</string>
+</resources>

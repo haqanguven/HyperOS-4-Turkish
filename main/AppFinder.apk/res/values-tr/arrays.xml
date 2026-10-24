@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xout_feedback_content">
+        <item>İlgilenmiyorum</item>
+        <item>Tekrarlanan</item>
+        <item>Uygunsuz içerik</item>
+        <item>Yanıltıcı veya dolandırıcılık</item>
+        <item>Yasadışı içerik</item>
+        <item>Diğer</item>
+    </string-array>
+</resources>

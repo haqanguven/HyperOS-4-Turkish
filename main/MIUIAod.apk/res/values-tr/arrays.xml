@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="big_time_clock_title_array">
+        <item>Sistem yazı tipi</item>
+        <item>Geniş kare yazı tipi</item>
+        <item>Basit siyah yazı tipi</item>
+        <item>Katmanlı yazı tipi</item>
+    </string-array>
+    <string-array name="kg_glass_filters">
+        <item>Orijinal</item>
+        <item>Bulanıklık</item>
+        <item>Kamışlı</item>
+        <item>Nervürlü</item>
+        <item>Prizma</item>
+        <item>Oluklar</item>
+        <item>Dalgalar</item>
+        <item>Kareler</item>
+    </string-array>
+</resources>

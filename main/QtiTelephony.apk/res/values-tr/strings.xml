@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="primary_card_selection_body_text">Yeni Sim kartlar algılandı. Lütfen veri hizmetleri için tercih edilen Sim kartı seçin</string>
+    <string name="primary_card_selection_dialog_button_ok">Tamam</string>
+    <string name="primary_card_selection_dialog_title">Birincil kart Seçimi</string>
+    <string name="progress_dialog_title">Cihaz yapılandırma anahtarını gerçekleştirme</string>
+    <string name="secure_mode_status_bar_icon_description">Güvenli mod</string>
+    <string name="sim_card_number_title">Sim %1$d</string>
+    <string name="subsidy_sim_card_number_title">Sim %1$d</string>
+    <string name="subsidysimcard_selection_body_text">"Yeni Sim kartlar algılandı. Birincil olarak seçmek istediğiniz sim'i seçin"</string>
+    <string name="subsidysimcard_selection_dialog_button_ok">Tamam</string>
+    <string name="subsidysimcard_selection_dialog_title">Birincil Sim kart seçimi</string>
+</resources>

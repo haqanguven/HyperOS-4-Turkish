@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CFActivate">Etkinleştir</string>
+    <string name="CFDeactivate">Devre dışı bırak</string>
+    <string name="app_name">Arama özelliği ayarı</string>
+    <string name="call_forwarding_settings">Arama yönlendirme ayarları</string>
+    <string name="call_waiting_settings">Arama bekletme ayarları</string>
+    <string name="change_num">Güncelle</string>
+    <string name="disable">Kapat</string>
+    <string name="enable">Aç</string>
+    <string name="help">Yardım</string>
+    <string name="labelCF">Arama yönlendirme</string>
+    <string name="labelCFB">Meşgulken</string>
+    <string name="labelCFDeactAll">Tümünü devre dışı bırak</string>
+    <string name="labelCFNRc">Ulaşılamadığında</string>
+    <string name="labelCFNRc_cdma">Dolaylı olarak yönlendir</string>
+    <string name="labelCFNRy">Ne zaman cevaplanmamış</string>
+    <string name="labelCFU">Her zaman yönlendir</string>
+    <string name="labelCW">Arama bekletme</string>
+    <string name="messageCFB">Meşgulken numara</string>
+    <string name="messageCFNRc">Ulaşılamadığında numara</string>
+    <string name="messageCFNRy">Cevaplanmadığında numara</string>
+    <string name="messageCFU">Her zaman bu numarayı kullan</string>
+    <string name="missing_permission_msg">Bu uygulama gerekli izinler olmadan çalışamaz. Lütfen ayarlarda izinleri verin</string>
+    <string name="null_phone_number">Telefon numarası boş olamaz!</string>
+    <string name="quit">Çık</string>
+    <string name="selectContact">kişi seç</string>
+    <string name="settings">Ayarlar</string>
+</resources>

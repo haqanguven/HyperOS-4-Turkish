@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_sa_log_level_entries">
+        <item>Hiçbiri</item>
+        <item>Uyar</item>
+        <item>Hata</item>
+        <item>Uyarı</item>
+        <item>Bilgi</item>
+        <item>Hata</item>
+        <item>Ayrıntılı</item>
+    </string-array>
+    <string-array name="switch_access_color_entries">
+        <item>Yeşil</item>
+        <item>Turuncu</item>
+        <item>Kırmızı</item>
+        <item>Mavi</item>
+        <item>Beyaz</item>
+    </string-array>
+    <string-array name="switch_access_sound_volume_entries">
+        <item>Medya ses düzeyiyle aynı</item>
+        <item>"Medya ses düzeyinin %75'i"</item>
+        <item>"Medya ses düzeyinin %50'si"</item>
+        <item>"Medya ses düzeyinin %25'i"</item>
+    </string-array>
+    <string-array name="switch_access_weight_entries">
+        <item>İnce düz çizgi</item>
+        <item>Orta düz çizgi</item>
+        <item>Kalın düz çizgi</item>
+    </string-array>
+</resources>

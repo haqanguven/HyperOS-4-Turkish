@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="energy_unit">
+        <item>" kalori"</item>
+        <item>" Kilokalori"</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" santim"</item>
+        <item>" metre"</item>
+        <item>" kilometre"</item>
+    </string-array>
+    <string-array name="references">
+        <item>Çin Halk Cumhuriyeti Sağlık Endüstrisi Standardı WS/T 476-2015 Beslenme Terminolojisi</item>
+        <item>Ito H, Ohshima A, Ohto N, Ogasawara M, Tsuzuki M, Takao K, Hijii C, Tanaka H, Nishioka K. Sağlıklı Japon bireylerde vücut kompozisyonu ve yaş arasındaki ilişki. Eur J Clin Nutr. 55( 6) :462-70, 2001</item>
+        <item>Lee RD ve Nieman DC. Beslenme Değerlendirmesi (ikinci baskı), s.264</item>
+        <item>Lohman TG. Vücut kompozisyonu değerlendirmesinde ileri düzey - Egzersiz bilimi serisindeki güncel konular. Champaign-IL: İnsan Kinetiği. ss 80. 1992</item>
+        <item>"Mahan LK ve Escott-stump S. Krause'nin Gıda, beslenme ve diyet terapisi 9. basım. WB Saunders Co. s. 455"</item>
+        <item>Nöroloji, 9. Baskı, Bölüm 22: Uyku Bozuklukları, People's Medical Publishing House</item>
+        <item>Fizyoloji, 9. baskı, Bölüm 10 Sinir sisteminin işlevleri, Halkın Tıbbi Yayın Evi</item>
+        <item>Uyku Tıbbı: Teori ve Uygulama, 4. Baskı, Bölüm 1 Normal Uyku ve Uyku Değişimi, People's Medical Publishing House</item>
+        <item>Çin Yerleşikleri İçin Beslenme Rehberi 2016 Bölüm I Çin Beslenme Derneği Tarafından Derlenen Genel Nüfus İçin Beslenme Rehberi</item>
+        <item>Gelişmiş fitness değerlendirmesi ve egzersiz reçetesi. Heyward VH. İnsan Kinetiği. s. 162</item>
+        <item>"Amerikan Spor Hekimliği Koleji. ACSM'nin Egzersiz Testi Reçetesi Kılavuzu[M]. Wolters Kluwer/Lippincott Williams & Wilkins Health, 2014."</item>
+        <item>Bray GA. Obezitenin Çağdaş Tanısı ve Yönetimi. s.13, 1998</item>
+        <item>Brown JE. Nutrition Now 2. baskı. Wadsworth Yayıncılık Şirketi. ss 9-3. 1999</item>
+        <item>Brozek J. Grande F, Anderson JT, Keys A. Vücut kompozisyonunun dansitometrik analizi: Bazı nicel varsayımların revizyonu. Ann N Y Acad Sci. 1963 26 Eylül;110:113-40</item>
+        <item>Heymsfield SB, Smith R, Aulet M, Bensen B, Lichtman S, Wang J, Pierson RN Jr. Ek iskelet kası kütlesi: çift foton absorpsiyometrisi ile ölçüm. Am J Clin Nutr. 52(2):214-8 , 1990</item>
+        <item>Pollock, Michael L, Gaesser, Glenn A, Butcher, Janus D, ve diğerleri. ACSM Pozisyon Standı: Sağlıklı Yetişkinlerde Kardiyovasküler, Kassal Zindelik ve Esnekliğin Geliştirilmesi ve Korunması için Önerilen Egzersiz Miktarı ve Kalitesi[J ] . Tıp ve Bilim, Spor ve Egzersiz, 30(6):975-991.</item>
+        <item>Tahara Y, Moji K, Aoyagi K, Tsunawake N, Muraki S, Mascie-Taylor CG. 18-59 yaş aralığındaki Japon erkek ve kadınların yaşa bağlı vücut yoğunluğu ve vücut kompozisyonu örüntüsü. Am J Hum Biol. 14(6):743-52, 2002
+        <item>Wang ZM, Pierson RN Jr, Heymsfield SB. Beş seviyeli model: vücut kompozisyonu araştırmalarını organize etmeye yönelik yeni bir yaklaşım. Am J Clin Nutr. 1992 Tem;56(1):19-28.</item>
+        <item>BMI için WHO yönergeleri</item>
+        <item>Pediatri Sözlüğü. Pekin Bilim ve Teknoloji Basını. 2003</item>
+        <item>Klinik Tıp Özeti 2. Baskı Bölüm 2 Fiziksel Muayene People's Medical Publishing House</item>
+        <item>Su Liang, Lu Zheng. 2017 Çin Uykusuzluk Tanı ve Tedavi Kılavuzlarının Yorumlanması[J]. Dünya Klinik İlaçları, 2018, 39(4).</item>
+        <item>Sağlık Bakanlığı'nın "12. Beş Yıllık Planı" ders kitabı [Tanı] 8. baskı Bölüm 3 Fiziksel Muayene</item>
+        <item>Beslenme ve Gıda Hijyeni (8. Baskı) Bölüm 1 Bölüm 5 Sun Changhao Halk Tıp Yayın Evi tarafından düzenlenmiştir</item>
+        <item>Aşırı Kilo ve Obezite İçin Tıbbi Beslenme Terapisi Konusunda Çinli Uzmanların Görüş Birliği. Aşırı Kilo/Obezite İçin Tıbbi Beslenme Terapisi Konusunda Çinli Uzmanların Görüş Birliği (2016 Baskısı)[J].</item>
+        <item>Çin'de hipertansiyonun önlenmesi ve tedavisine ilişkin kılavuzlar - 2005 gözden geçirilmiş baskı 2010 gözden geçirilmiş baskı</item>
+        <item>Çin Halk Cumhuriyeti Sağlık Endüstrisi Standardı WS/T 476-2015 Beslenme Terminolojisi</item>
+        <item>Amato M C, Giordano C, Galia M, ve diğerleri. Visseral Adipozite Endeksi[J]. 2010, 33(4):920-922.</item>
+        <item>Zhang Zhenlin. Osteoporoz tanısı ve kemik yoğunluğu test raporlarının yorumlanması[J]. Çin Genel Uygulaması, 2010, 13(2):117-117</item>
+        <item>Xie Xing. Kadın Hastalıkları ve Doğum (9. Baskı)[M]. Pekin: Halkın Tıbbi Yayın Evi. 2018.</item>
+        <item>Yağmur cama vuruyor. Güvenli dönem gerçekten güvenli mi? [J]. Rehabilitation, 2013(1):16-16.</item>
+        <item>Xiao Wei, A Dan. Güvenli dönemde doğum kontrolü kullanmak güvenli midir? [J]. Health Reading, 2002(4).</item>
+        <item>2018 Fiziksel Aktivite Yönergeleri Danışma Komitesi Bilimsel Rapor Sunuyor</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" kilometre/saat"</item>
+        <item>" metre/saniye"</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week">
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+    </string-array>
+    <string-array name="week_short">
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" g"</item>
+        <item>" kg"</item>
+        <item>" t"</item>
+        <item>" liang"</item>
+        <item>" jin"</item>
+        <item>" lb"</item>
+    </string-array>
+</resources>

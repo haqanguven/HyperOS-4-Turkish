@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Alınma zamanına göre sırala</item>
+        <item>Bildirim sayısına göre sırala</item>
+        <item>Bildirim gösterilen uygulamalar</item>
+        <item>Bildirim gösterilmeyen uygulamalar</item>
+    <string-array name="guide_des">
+        <item>Birden fazla öğe arasında hızlıca geçiş yapmak için dokunun</item>
+        <item>İçeriği göstermek veya gizlemek için yatay olarak kaydırın</item>
+        <item>Alttan yukarı doğru çekerek hareketli bir pencere açın</item>
+    </string-array>
+    <string-array name="guide_des_description">
+        <item>Birden fazla öğe arasında hızlıca geçiş yapmak için dokunun. Sayfa %1$d / %2$d. Sayfalar arasında geçiş yapmak için iki parmağınızla yatay olarak kaydırın</item>
+        <item>İçeriği göstermek veya gizlemek için yatay olarak kaydırın. Sayfa %1$d / %2$d. Sayfalar arasında geçiş yapmak için iki parmağınızla yatay olarak kaydırın</item>
+        <item>Alttan yukarı doğru çekerek kayan bir pencere açın. Sayfa %1$d / %2$d. Sayfalar arasında geçiş yapmak için iki parmağınızla yatay olarak kaydırın</item>
+    </string-array>						
+    </string-array>
+</resources>

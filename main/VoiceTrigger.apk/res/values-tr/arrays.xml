@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="enroll_step_failed_new">
+        <item>Mi yapay zeka bunu algılamadı. Daha yüksek sesle tekrar söylemeyi deneyin</item>
+        <item>Mi yapay zeka bunu algılayamadı. Daha sessiz bir yere geçin ve tekrar deneyin</item>
+        <item>Mi yapay zeka bunu algılamadı. %1$s" ifadesini tekrar etmeyi deneyin</item>
+        <item>Bir hata oluştu. Lütfen tekrar deneyin</item>
+        <item>Yapay zeka bunu anlamadı. Tekrar söylemeyi deneyin</item>
+        <item>Yapay zeka bunu anlamadı. Daha sessiz bir şekilde tekrar söylemeyi deneyin</item>
+        <item>Yapay zeka bunu algılayamadı. %1$s ifadesini tekrar etmeyi deneyin</item>
+        <item>Ağ ayarlarınızı kontrol edin ve tekrar deneyin</item>
+    </string-array>
+    <string-array name="enroll_step_hint_more">
+        <item>Çince söyleyin</item>
+        <item>Tekrar söyleyin</item>
+        <item>Son bir kez daha söyleyin</item>
+    </string-array>
+</resources>

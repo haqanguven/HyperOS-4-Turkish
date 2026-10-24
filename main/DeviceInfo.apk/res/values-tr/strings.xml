@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_version">Android sürümü</string>
+    <string name="app_name">Cihaz bilgisi</string>
+    <string name="baseband_version">Ana bant sürümü</string>
+    <string name="call_notification_answer_action">Cevapla</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Reddet</string>
+    <string name="call_notification_hang_up_action">Kapat</string>
+    <string name="call_notification_incoming_text">Gelen arama</string>
+    <string name="call_notification_ongoing_text">Devam eden arama</string>
+    <string name="call_notification_screening_text">Gelen arama taranıyor</string>
+    <string name="device_info_unknown">Bilinmiyor</string>
+    <string name="grant_permissions_prompt">Lütfen gerekli izinleri verin veya ayarlardan cihaz bilgilerine gerekli izinleri verin. Aksi takdirde cihaz bilgileri kapanacaktır</string>
+    <string name="hardware_version">Donanım sürümü</string>
+    <string name="iccid">ICCID</string>
+    <string name="imei1">IMEI1</string>
+    <string name="imei2">IMEI2</string>
+    <string name="imsi">IMSI</string>
+    <string name="meta_info">Meta sürümü</string>
+    <string name="model_number">Model</string>
+    <string name="my_number">Telefon numaram</string>
+    <string name="software_version">Yazılım sürümü</string>
+</resources>

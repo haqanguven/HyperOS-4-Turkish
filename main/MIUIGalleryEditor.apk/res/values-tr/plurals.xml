@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="filter_images_ratio_unsupport_v2">
+        <item quantity="other">%d desteklenmeyen öğe filtrelendi</item>
+        <item quantity="one">%d desteklenmeyen öğe filtrelendi</item>
+    </plurals>
+    <plurals name="filter_images_unsupport_v2">
+        <item quantity="other">%d desteklenmeyen öğe filtrelendi</item>
+        <item quantity="one">%d desteklenmeyen öğe filtrelendi</item>
+    </plurals>
+    <plurals name="live_photo_remover_over_limit_2">
+        <item quantity="other">Aynı anda en fazla %d görevi işleyebilirsiniz. Daha fazla görev eklemeden önce bunların tamamlanmasını bekleyin</item>
+        <item quantity="one">Aynı anda en fazla %d görevi işleyebilirsiniz. Daha fazla görev eklemeden önce bunların tamamlanmasını bekleyin</item>
+    </plurals>
+    <plurals name="live_photo_remover_over_limit_3">
+        <item quantity="other">Yalnızca %d saniye içindeki canlı anlar desteklenmektedir. Başka bir fotoğraf seçin ve tekrar deneyin</item>
+        <item quantity="one">Yalnızca %d saniye içindeki canlı anlar desteklenmektedir. Başka bir fotoğraf seçin ve tekrar deneyin</item>
+    </plurals>
+    <plurals name="mark_doodle_max_node">
+        <item quantity="other">En fazla %d çıkartma ekleyebilirsiniz</item>
+        <item quantity="one">En fazla %d çıkartma ekleyebilirsiniz</item>
+    </plurals>
+    <plurals name="mark_shape_max_node">
+        <item quantity="other">"%d'ye kadar şekil ekle"</item>
+        <item quantity="one">"%d'ye kadar şekil ekle"</item>
+    </plurals>
+    <plurals name="mark_signature_max_node">
+        <item quantity="other">En fazla %d imza ekleyebilirsiniz</item>
+        <item quantity="one">En fazla %d imza ekleyebilirsiniz</item>
+    </plurals>
+    <plurals name="mark_text_max_node">
+        <item quantity="other">En fazla %d metin kutusu ekleyebilirsiniz</item>
+        <item quantity="one">En fazla %d metin kutusu ekleyebilirsiniz</item>
+    </plurals>
+    <plurals name="photo_crop_talkback_px">
+        <item quantity="other">%d piksel</item>
+        <item quantity="one">%d piksel</item>
+    </plurals>
+    <plurals name="photo_editor_livephoto_enhance_notification_complete_msg">
+        <item quantity="other">Tamamlanan görev sayısı %d. Görüntülemek için dokunun</item>
+        <item quantity="one">Tamamlanan görev sayısı %d. Görüntülemek için dokunun</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_distortion_value">
+        <item quantity="other">Çarpıtma: %d</item>
+        <item quantity="one">Çarpıtma: %d</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_horizontal_value">
+        <item quantity="other">Yatay: %d derece</item>
+        <item quantity="one">Yatay: %d derece</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">%d derece döndür</item>
+        <item quantity="one">%d derece döndür</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_vertical_value">
+        <item quantity="other">Dikey: %d derece</item>
+        <item quantity="one">Dikey: %d derece</item>
+    </plurals>
+    <plurals name="photo_editor_video_generation_loading_page_msg">
+        <item quantity="other">Efekt oluşturma işlemi %d saniye sürebilir. Uygulamadan çıkmak ilerlemeyi etkilemez. Hazır olduğunda bir bildirim alacaksınız</item>
+        <item quantity="one">Efekt oluşturma işlemi %d saniye sürebilir. Uygulamadan çıkmak ilerlemeyi etkilemez. Hazır olduğunda bir bildirim alacaksınız</item>
+    </plurals>
+    <plurals name="video_ai_auto_limit1">
+        <item quantity="other">"Aynı anda %d'den fazla klip işlenemiyor"</item>
+        <item quantity="one">"Aynı anda %d'den fazla klip işlenemiyor"</item>
+    </plurals>
+    <plurals name="video_ai_auto_limit2">
+        <item quantity="other">"%d dakikadan uzun klipler işlenemiyor</item>
+        <item quantity="one">%d dakikadan uzun klipler işlenemiyor</item>
+    </plurals>
+    <plurals name="video_editor_tip_track_limit">
+        <item quantity="other">En fazla %d parça ekleyebilirsiniz</item>
+        <item quantity="one">En fazla %d parça ekleyebilirsiniz</item>
+    </plurals>
+    <plurals name="video_talkback_minutes">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+    </plurals>
+    <plurals name="video_talkback_seconds">
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">%d saniye</item>
+    </plurals>
+    <plurals name="video_tuning_audio_limit">
+        <item quantity="other">Tek seferde en fazla %1$d dakika işleyebilirsiniz veya videoyu kırpıp tekrar deneyebilirsiniz</item>
+        <item quantity="one">Tek seferde en fazla %1$d dakika işleyebilirsiniz veya videoyu kırpıp tekrar deneyebilirsiniz</item>
+    </plurals>
+    <plurals name="vlog_audio_origin_sound">
+        <item quantity="other">Orijinal ses %1$d</item>
+        <item quantity="one">Orijinal ses %1$d</item>
+    </plurals>
+    <plurals name="vlog_clip_cut_fail_min_time">
+        <item quantity="other">Video klipler en az %1$s saniye uzunluğunda olmalıdır</item>
+        <item quantity="one">Video klipler en az %1$s saniye uzunluğunda olmalıdır</item>
+    </plurals>
+    <plurals name="vlog_filter_audio_unsupport_audio_file">
+        <item quantity="other">Desteklenmeyen %d ses dosyası filtrelendi</item>
+        <item quantity="one">Desteklenmeyen %d ses dosyası filtrelendi</item>
+    </plurals>
+    <plurals name="vlog_filter_diy_lut_import_success_toast">
+        <item quantity="other">%1$d filtreleri başarıyla içe aktarıldı</item>
+        <item quantity="one">%1$d filtreleri başarıyla içe aktarıldı</item>
+    </plurals>
+    <plurals name="vlog_filter_no_support_nums">
+        <item quantity="other">Desteklenmeyen %d öğe filtrelendi</item>
+        <item quantity="one">Desteklenmeyen %d öğe filtrelendi</item>
+    </plurals>
+    <plurals name="vlog_generate_loading_
+        <item quantity="other">Yaklaşık %s dakika kaldı. Bu süre zarfında diğer özellikleri kullanmaya devam edebilirsiniz</item>
+        <item quantity="one">Yaklaşık %s dakika kaldı. Bu süre zarfında diğer özellikleri kullanmaya devam edebilirsiniz</item>
+    </plurals>
+    <plurals name="vlog_import_minutes_limit">
+        <item quantity="other">"Süre şu anda %d dakikayı aştı. "</item>
+        <item quantity="one">"Süre şu anda %d dakikayı aştı. "</item>
+    </plurals>
+    <plurals name="vlog_import_minutes_no_support_nums">
+        <item quantity="other">%d video atlandı</item>
+        <item quantity="one">%d video atlandı</item>
+    </plurals>
+    <plurals name="vlog_no_support_duration">
+        <item quantity="other">İçe aktarılamadı. Süre %d dakikayı aştı</item>
+        <item quantity="one">İçe aktarılamadı. Süre %d dakikayı aştı</item>
+    </plurals>
+    <plurals name="vlog_talkback_crop_scale_value">
+        <item quantity="other">%d derece döndür</item>
+        <item quantity="one">%d derece döndür</item>
+    </plurals>
+    <plurals name="vlog_template_support_count_desc">
+        <item quantity="other">%d klip</item>
+        <item quantity="one">%d klip</item>
+    </plurals>
+</resources>

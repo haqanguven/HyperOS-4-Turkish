@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screenrecorder_settings_bit_rate">
+        <item>200Mbps</item>
+        <item>100Mbps</item>
+        <item>50Mbps</item>
+        <item>32Mbps</item>
+        <item>24Mbps</item>
+        <item>16Mbps</item>
+        <item>8Mbps</item>
+        <item>4Mbps</item>
+        <item>1Mbps</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_frames">
+        <item>24 FPS</item>
+        <item>30 FPS</item>
+        <item>48 FPS</item>
+        <item>60 FPS</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_orientation">
+        <item>Otomatik</item>
+        <item>Portre</item>
+        <item>Manzara</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound">
+        <item>Sessiz</item>
+        <item>Mikrofon</item>
+        <item>Sistem sesleri</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>Hiçbiri</item>
+        <item>Mikrofon</item>
+        <item>Sistem</item>
+        <item>Tümü</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_storage_location">
+        <item>Dahili depolama</item>
+        <item>Harici depolama</item>
+    </string-array>
+    <string-array name="screenrecorder_utils_support_90fps_frames_cpu">
+        <item>Qualcomm Teknolojileri, Inc SM8350</item>
+        <item>Qualcomm Teknolojileri, Inc SM8450</item>
+        <item>MT6895</item>
+        <item>MT6895T</item>
+        <item>MT6896</item>
+        <item>MT6983</item>
+        <item>MT6985</item>
+        <item>MT6986</item>
+    </string-array>
+    <string-array name="screenrecorder_utils_support_high_frames_cpu">
+        <item>Qualcomm Teknolojileri, Inc SDM845</item>
+        <item>Qualcomm Teknolojileri, Inc MSM8998</item>
+        <item>Qualcomm Teknolojileri, Inc SM8150</item>
+        <item>Qualcomm Teknolojileri, Inc SM8250</item>
+        <item>MT6889Z/CZA</item>
+    </string-array>
+</resources>

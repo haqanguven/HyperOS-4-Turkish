@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_data_in_transfer">
+        <item quantity="other">Veri aktarımı %d saatte tamamlanacak</item>
+        <item quantity="one">Veri aktarımı %d saatte tamamlanacak</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
+    </plurals>
+    <plurals name="recently_delete_recover">
+        <item quantity="other">%d öğe başarıyla geri yüklendi</item>
+        <item quantity="one">%d öğe başarıyla geri yüklendi</item>
+    </plurals>
+    <plurals name="recently_deleted_remind_des_days">
+        <item quantity="other">Bu parola %d gün sonra kalıcı olarak silinecektir. İhtiyacınız olursa zamanında geri yükleyin</item>
+        <item quantity="one">Bu parola %d gün sonra kalıcı olarak silinecektir. İhtiyacınız olursa zamanında geri yükleyin</item>
+    </plurals>
+    <plurals name="recently_deleted_remind_des_hours">
+        <item quantity="other">Bu parola %d saat sonra kalıcı olarak silinecektir. İhtiyacınız olursa zamanında geri yükleyin</item>
+        <item quantity="one">Bu parola %d saat sonra kalıcı olarak silinecektir. İhtiyacınız olursa zamanında geri yükleyin</item>
+    </plurals>
+    <plurals name="settings_clear_data_confirmation">
+        <item quantity="other">"Şifreleri şimdi silerseniz bir sonraki oturum açışınızda şifre manuel olarak girmeniz gerekir.
+Seçilen %1$s uygulamasının şifreleri silinsin mi?"</item>
+        <item quantity="one">"Şifreleri şimdi silerseniz bir sonraki oturum açışınızda şifre manuel olarak girmeniz gerekir.
+Seçilen %1$s uygulamasının şifreleri silinsin mi?"</item>
+    </plurals>
+</resources>

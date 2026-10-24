@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kişiler depolaması</string>
+    <string name="app_name">İletişim sağlayıcısı</string>
+    <string name="call_log_provider_label">Arama geçmişi</string>
+    <string name="debug_dump_database_message">1) Kişilerinizin tamamının iletişim bilgileri ve arama kayıtlarınıda içeren, kişi veritabanınızın bir kopyasını dahili depolama alanına almak ve 2) e-posta göndermek üzeresiniz. E-posta alındığında veya veritabanının kopyası depolama alanına başarılı bir şekilde kopyalandığında, kopyayı mümkün olan en kısa sürede silmeyi unutmayın</string>
+    <string name="debug_dump_delete_button">Şimdi sil</string>
+    <string name="debug_dump_email_body">Posta eki, kişilerimin tamamının iletişim bilgilerinin yer aldığı kişiler veritabanıdır. Lütfen dikkatli olun</string>
+    <string name="debug_dump_email_sender_picker">Dosyanızı göndermek için bir program seçin</string>
+    <string name="debug_dump_email_subject">Kişiler veritabanı eklendi</string>
+    <string name="debug_dump_start_button">Başlat</string>
+    <string name="debug_dump_title">Kişi veri tabanını kopyala</string>
+    <string name="default_directory">Kişiler</string>
+    <string name="local_invisible_directory">Diğer</string>
+    <string name="low_memory_toast">Düşük bellek miktarı nedeniyle kullanıma devam edilemiyor</string>
+    <string name="movable_contacts_count">"{contacts_count, plural, =1 {# mevcut iletişim bilgilerinin doğru olduğundan emin olmak içindir} other {# Mevcut kişilerin iletişim bilgilerinin doğru olduğundan emin olmak içindir} }"</string>
+    <string name="move_contacts_to_default_account_dialog_cancel_button_text">Senkronize etme</string>
+    <string name="move_contacts_to_default_account_dialog_message">"%2$s'e yedeklenen %1$s kişiyi (%3$s) senkronize edebilirsiniz"</string>
+    <string name="move_contacts_to_default_account_dialog_sync_button_text">Senkronize et</string>
+    <string name="move_contacts_to_default_account_dialog_title">Mevcut kişiler senkronize edilsin mi?</string>
+    <string name="pound_search_tip">Kişileri aramak için # işaretinden sonra bir sayı girin</string>
+    <string name="provider_label">Kişiler</string>
+    <string name="sharedUserLabel">Android çekirdek uygulamaları</string>
+    <string name="sim_state_changed">Telefon kartı değişti</string>
+    <string name="update_accounts_changed">Hesaplar değişti</string>
+    <string name="upgrade_out_of_memory_notification_text">Güncellemeyi tamamlamak için dokunun</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Güncelleme daha fazla belleğe ihtiyaç duyuyor</string>
+    <string name="upgrade_out_of_memory_notification_title">Kişileri yüklemek için hafızayı arttırın</string>
+    <string name="voicemail_cleanup">Sesli mesajı temizler</string>
+    <string name="voicemail_from_column">"Sesli posta gönderen "</string>
+</resources>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Ev</item>
+        <item>İş</item>
+        <item>Diğer</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>İş</item>
+        <item>Diğer</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Ev</item>
+        <item>Mobil</item>
+        <item>İş</item>
+        <item>İş faks</item>
+        <item>Ev faks</item>
+        <item>Çağrı cihazı</item>
+        <item>Diğer</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Ev</item>
+        <item>İş</item>
+        <item>Diğer</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="config_tvExternalInputLoggingDeviceBrandNames">
+        <item>Apple</item>
+        <item>Chromecast</item>
+        <item>Fire TV</item>
+        <item>Freebox</item>
+        <item>Google</item>
+        <item>MiBOX</item>
+        <item>Microsoft</item>
+        <item>Nintendo</item>
+        <item>NVIDIA</item>
+        <item>onn.</item>
+        <item>PlayStation</item>
+        <item>Roku</item>
+        <item>SHIELD</item>
+        <item>Sony</item>
+        <item>XBOX</item>
+    </string-array>
+    <string-array name="config_tvExternalInputLoggingDeviceOnScreenDisplayNames">
+        <item>ADT-4</item>
+        <item>Chromecast HD</item>
+        <item>Fire TV Stick</item>
+        <item>Freebox Player</item>
+        <item>Home Theater</item>
+        <item>Jarvis</item>
+        <item>NintendoSwitch</item>
+        <item>onn. 4K Plus S</item>
+        <item>onn. Streaming</item>
+        <item>PlayStation 4</item>
+        <item>PlayStation 5</item>
+        <item>Roku 3</item>
+        <item>Roku Express 4</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Tekrar deneyin</item>
+        <item></item>
+        <item></item>
+        <item>Parmak izi tarayıcıyı tamamen kapatın ve baskı uygulayın</item>
+        <item></item>
+        <item>Parmak izi tarayıcıyı tamamen kapatın ve baskı uygulayın</item>
+        <item>Parmak izi tarayıcıyı tamamen kapatın ve baskı uygulayın</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Parmak izi tarayıcıyı tamamen kapatın ve baskı uygulayın</item>
+        <item>Parmak izi tarayıcıyı tamamen kapatın ve baskı uygulayın</item>
+        <item>Çok hızlı. Parmak izi tanınamadı</item>
+        <item>Parmağınızı biraz hareket ettirin ve tekrar deneyin</item>
+        <item>Parmağınızı kaldırın ve tekrar tarayıcıya koyun</item>
+        <item>Parmağınızı tarayıcıda biraz daha uzun tutun</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Parmağınızı hafifçe hareket ettirin</item>
+        <item>Bu parmak izi eklendi. Farklı bir parmak kullanın</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Ev</item>
+        <item>İş</item>
+        <item>Diğer</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Mobil veri</item>
+        <item>Wifi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>Çince (Basitleştirilmiş)</item>
+        <item>Çince (Geleneksel)</item>
+        <item>İspanyolca (Amerika)</item>
+        <item>Arapça</item>
+        <item>Arapça (Batı rakamları)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Kablosuz ağ üzerinden telefon etmek ve mesaj göndermek için öncelikle operatörünüzden bu hizmeti ayarlamasını isteyin. Sonra ayarlardan kablosuz arama özelliğini tekrar açın (Hata kodu: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Kablosuz aramanın operatörünüze kaydı sırasında hata oluştu: %1$s</item>
+    </string-array>
+</resources>

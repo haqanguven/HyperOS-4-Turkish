@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Bir kez</item>
+        <item>Her gün</item>
+        <item>İş günleri</item>
+        <item>Hafta içi</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Bir kez</item>
+        <item>Her gün</item>
+        <item>Hafta içi</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="anti_peeping_apps_spinner_notify_type">
+        <item>Xiaomi ada</item>
+        <item>Titreşim</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Tüm kayıtlar</item>
+        <item>Otomatik başlat</item>
+        <item>Zincir başlangıcı</item>
+        <item>Kullanılan izinler</item>
+        <item>Hassas eylemler</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Desen</item>
+        <item>Pin</item>
+        <item>Şifre</item>
+    </string-array>
+    <string-array name="auto_task_screen_zoom_level">
+        <item>Çok küçük</item>
+        <item>Küçük</item>
+        <item>Büyük</item>
+    </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Çok küçük</item>
+        <item>Küçük</item>
+        <item>Orta</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
+        <item>Daha büyük</item>
+    </string-array>
+    <string-array name="biometric_face_retry">
+        <item>Yüz verileriyle tekrar deneyin</item>
+        <item>Parmak izi veya şifre kullanın</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Boyut</item>
+        <item>Ad</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Aylık plan</item>
+        <item>Sınırsız plan</item>
+        <item>Günlük plan</item>
+    </string-array>
+    <string-array name="clipboard_paste_list">
+        <item>Yapıştır</item>
+        <item>Yapıştır ve tanı</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Özel</item>
+        <item>Mi fan kartı</item>
+        <item>Xiao Tiansheng kartı</item>
+        <item>Tencent kral kart</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Özel</item>
+        <item>Mi mobil</item>
+        <item>Mi fan kart</item>
+        <item>TI kart</item>
+        <item>Tencent kart</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Dün (Mobil veri)</item>
+        <item>Bugün (Mobil veri)</item>
+        <item>Geçen ay (Mobil veri)</item>
+        <item>Bu ay (Mobil veri)</item>
+        <item>Dün (Wifi)</item>
+        <item>Bugün (Wifi)</item>
+        <item>Geçen ay (Wifi)</item>
+        <item>Bu ay (Wifi)</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Dün "</item>
+        <item>"Bugün "</item>
+        <item>"Geçen ay: "</item>
+        <item>"Bu ay: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Bu hafta "</item>
+        <item>"Bugün "</item>
+        <item>"Bu ay "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Dün: "</item>
+        <item>"Bugün: "</item>
+        <item>"Geçen ay: "</item>
+        <item>"Bu ay: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Bu hafta: "</item>
+        <item>"Bugün: "</item>
+        <item>"Bu ay: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Bir bilgisayar kullanarak cihazınızdaki dosyalara erişmek ve bunları düzenlemek mümkün olacaktır</item>
+        <item>Açık izniniz olmadan cihazınıza uygulamalar yüklemenize izin verilecektir</item>
+        <item>Ekran içeriğinizi uzaktan izleyebilir ve kaydedebilirsiniz</item>
+        <item>Cihazınızla ilgili ayrıntılı bilgilere erişmek mümkün olacaktır</item>
+    </string-array>
+    <string-array name="ew_alert_feel_title_list">
+        <item>Güçlü sarsıntı</item>
+        <item>Fark edilir sarsıntı</item>
+        <item>Hafif sarsıntı</item>
+        <item>Sarsıntı yok</item>
+    </string-array>
+    <string-array name="ew_alert_help_safe_title_list">
+        <item>Siper alın</item>
+        <item>Dikkatli olun</item>
+        <item>Güvende kalın</item>
+        <item>Panik yapmayın</item>
+    </string-array>
+    <string-array name="ew_alert_intensity_list">
+        <item>Hafif sarsıntı</item>
+        <item>Fark edilir sarsıntı</item>
+        <item>Güçlü sarsıntı</item>
+        <item>Çok güçlü sarsıntı</item>
+    </string-array>
+    <string-array name="ew_emergency_blood_type_new_arrays">
+        <item>Ayarlanmamış</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="ew_emergency_gender_arrays">
+        <item>Ayarlanmamış</item>
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>En düşük</item>
+        <item>Düşük</item>
+        <item>Normal</item>
+        <item>Yüksek</item>
+        <item>En yüksek</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Balanced</item>
+        <item>Yüksek kalite</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Balanced</item>
+        <item>Varsayılan</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>Yüksek hız</item>
+        <item>Dengeli</item>
+        <item>Yüksek kalite</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture_value">
+        <item>En hızlı</item>
+        <item>Dengeli</item>
+        <item>Varsayılan</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Cihaz kilitlendiğinde</item>
+        <item>Cihaz kilitlendiğinde veya uygulamadan çıkıldığında</item>
+        <item>Cihaz kilitlendiğinde veya uygulamadan çıkış yapıldıktan 1 dakika sonra</item>
+    </string-array>
+    <string-array name="luckymoney_sound">
+        <item>Sessiz</item>
+        <item>Madeni para</item>
+        <item>Şanslı</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobil veri kullanımı "</item>
+        <item>"Wifi kullanımı "</item>
+    </string-array>
+    <string-array name="mition_sickness_remind_time_items_text">
+        <item>Hareket halindeyken</item>
+        <item>Her zaman</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Önemli: Birden fazla sistem uygulaması düzgün çalışmayabilir</item>
+        <item>Metin düzenleri, hesaplar ve içerik düzgün görüntülenmeyebilir</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Uyarı görüntüle</item>
+        <item>Uyar ve mobil veriyi kapat</item>
+    </string-array>
+    <string-array name="pb_manufacturer_names">
+        <item>Ningde Amperex Technology Limited</item>
+        <item>Dongguan Amperex Technology Limited</item>
+        <item>Zhengzhou BAK Battery Co.,Ltd</item>
+        <item>SHANGHAI BYD COMPANY LIMITED</item>
+        <item>Tianjin Lishen Battery Joint-Stock Co., Ltd.</item>
+        <item>Tianjin Lishen Juyuan New Energy Technology Co.,Ltd.</item>
+        <item>Lishen Battery(SuZhou) Co., Ltd.</item>
+        <item>Samsung SDI(Tianjin)Battery Co.,Ltd.</item>
+        <item>EVE Energy Co., Ltd.</item>
+        <item>EVE Innovation Energy Co., Ltd</item>
+        <item>Chengdu EVE Energy Co., Ltd.</item>
+        <item>Ningbo EVE Hyperpower Lithium Batteries Inc.</item>
+        <item>Dongguan Liwinon Energy Technology Co., Ltd.</item>
+        <item>Huizhou Liwinon New Energy Technology Co., Ltd.</item>
+        <item>Zhejiang Liwinon Energy Technology Co., Ltd.</item>
+        <item>Xiamen Ampace Technology Limited</item>
+        <item>Henan Great Power Energy Co., Ltd.</item>
+        <item>Guangzhou Great Power Energy &amp;Technology Co., Ltd.</item>
+        <item>Guangdong Highpower New Energy Technology Co., Ltd.</item>
+        <item>Shenzhen Highpower Technology Co., Ltd.</item>
+        <item>Huizhou Highpower Technology Co., Ltd.</item>
+        <item>Zhuhai CosMX Battery Co., Ltd</item>
+        <item>Zhuhai CosMX Power Jinwan Subsidiary Co., Ltd.</item>
+        <item>Chongqing CosMX Battery Co., Ltd</item>
+        <item>Dongguan Veken Battery Co., Ltd.</item>
+        <item>HuiZhou GanFeng LiEnergy Battery Technology Co.,Ltd.</item>
+        <item>XinYu GanFeng Electronics Co., LTD</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Varsayılan</item>
+        <item>Performansa öncelik ver</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Varsayılan sıcaklık kontrol modunu kullanabilirsiniz</item>
+        <item>Performansa öncelik verebilirsiniz</item>
+    </string-array>
+    <string-array name="peep_protection_v2_notify_types">
+        <item>Xiaomi ada</item>
+        <item>Titreşim</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="peep_protection_v2_notify_types_v2">
+        <item>Xiaomi ada</item>
+        <item>Titreşim</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Kısa mesajlarınızın içeriği ve kişisel bilgiler içerebilecek diğer öğeler dahil olmak üzere tüm bildirimlerinizi okuyun</item>
+        <item>Bazı uygulamalar için bildirim izinlerini kısıtlama</item>
+        <item>Dokunma bildirimlerini ve açık uygulamaları simüle et</item>
+        <item>Uyku modunu açma ve kapatma</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Hangi uygulamaları kullandığınızı ve ne sıklıkta kullandığınızı öğrenerek ilgi alanlarınız ve davranışlarınızla ilgili verileri toplayın</item>
+        <item>Operatörle ilgili ve dil ayarlarınıza ve diğer ayrıntılara erişin</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>GetApps tarafından doğrulanmayan üçüncü taraf uygulamaları birden fazla soruna neden olabilir ve sistem kararlılığını azaltabilir</item>
+        <item>Bazı üçüncü taraf uygulamaları kişisel verilerinizi risk altına sokan kötü amaçlı yazılımlar içerebilir</item>
+    </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>Varsayılan</item>
+        <item>Tümü</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Dahili depolama</item>
+        <item>Harici depolama</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Her zaman</item>
+        <item>Sadece istisnalar</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Veri kullanımı</item>
+        <item>Kalan bakiye</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Uygulama adına göre sırala</item>
+        <item>Kullanım sıklığına göre sırala</item>
+        <item>Kullanılan depolama alanına göre sırala</item>
+        <item>Yükleme zamanına göre sırala</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Uygulama adı</item>
+        <item>Kullanım sıklığı</item>
+        <item>Kullanılan depolama alanı</item>
+        <item>Yükleme zamanı</item>
+    </string-array>
+    <string-array name="spinner_password_type">
+        <item>Gizlilik koruma şifresi</item>
+        <item>Ekran kilidi</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Kapat ve bildir</item>
+        <item>Yalnızca bildir</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Yükleme kaynağı</item>
+        <item>Yükleme zamanı</item>
+        <item>Son kaynak güncelleme</item>
+        <item>Son güncelleme zamanı</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Aylık veri planı</item>
+        <item>Günlük veri planı</item>
+        <item>Sınırsız veri planı</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobil veri kullanımı "</item>
+        <item>"Wifi kullanımı "</item>
+    </string-array>
+</resources>

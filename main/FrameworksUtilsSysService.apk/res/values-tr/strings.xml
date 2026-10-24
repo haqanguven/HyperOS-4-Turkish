@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_dcf_custom_request_event">Bir uygulamanın HLOS ve SLPI arasında özel DCF istekleri ve olayları gönderip almasına izin verir</string>
+    <string name="permdesc_mpam_access_custom_permission">"Bir uygulamanın MPAM API'lerine erişmesine izin verir"</string>
+    <string name="permdesc_receiveQSM">Uygulamanın uydu mesajları almasına izin verir. Kötü amaçlı uygulamalar cihazınıza gönderilen uydu mesajlarını izleyebilir veya silebilir</string>
+    <string name="permdesc_sec_dnd">İkincil SIM karttaki aramaları devre dışı bırakarak rahatsız etmeyin özelliğini etkinleştirmek için bir uygulamaya erişim izni verin</string>
+    <string name="permdesc_sendQSM">Uygulamanın uydu mesajları göndermesine izin verir. Kötü amaçlı uygulamalar sizin adınıza uydu mesajları gönderebilir veya beklenmedik ücretlendirmelere neden olabilir</string>
+    <string name="permgroupdesc_qsm">uydu mesajları gönderip alabilir</string>
+    <string name="permgroupdesc_sec_dnd">ikincil SIM rahatsız etmeyin özelliğini etkinleştirebilir</string>
+    <string name="permgrouplab_qsm">Uydu mesajlaşması</string>
+    <string name="permgrouplab_sec_dnd">İkincil rahatsız etmeyin</string>
+    <string name="permlab_dcf_custom_request_event">özel DCF istekleri ve olayları gönderip alabilir</string>
+    <string name="permlab_mpam_access_custom_permission">MPAM erişim izni</string>
+    <string name="permlab_receiveQSM">Uydu mesajları alabilir</string>
+    <string name="permlab_sec_dnd">İkincil SIM rahatsız etmeyin özelliğini etkinleştirebilir</string>
+    <string name="permlab_sendQSM">Uydu mesajları gönder</string>
+</resources>

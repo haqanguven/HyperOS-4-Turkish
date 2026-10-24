@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Bay</item>
+        <item>Bayan</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Bay</item>
+        <item>Bayan</item>
+    </string-array>
+    <string-array name="passport_privacy_dialog_runtime_perm_desc">
+        <item>Tek dokunuşla oturum açmayı desteklemek için cihaz telefon numarasına erişmek ve cihazı bul uygulamasında kayıp modunu kullanırken verdiğiniz numaraya arama yapılabilmesi için bu bilgiye ihtiyaç duyulmaktadır</item>
+        <item>Kayıp cihaz özelliğinde kayıp modunu kullanırken verdiğiniz telefon numarasına arama yapmak içindir</item>
+        <item>Cihazınızı cihaz bul özelliğiyle bulmak içindir</item>
+        <item>Ağ bağlantısı olmadığında cihazınızın yerini mesaj yoluyla öğrenmek içindir</item>
+        <item>Bul cihazıyla ilgili verilere erişmek veya bu verileri saklamak içindir</item>
+        <item>Cihazda ses çalma isteğinde bulunmak için cihazı bul özelliğini kullanın</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Hesaplar</item>
+        <item>Üçüncü taraf hesapları ekleyin ve yönetin</item>
+        <item>Yetkilendirme;Hesap;Mi hesabı;Ekle;Eşle;Xiaomi;Görünüm;SNS;WeChat;Google;Weibo</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Hesaplar</item>
+        <item>Üçüncü taraf hesapları ekleyin ve yönetin</item>
+        <item>Yetkilendirme;Hesap;Mi hesabı;Ekle;Eşle;Xiaomi;Görünüm;SNS;WeChat;Google;Weibo</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Şifre değiştir</item>
+        <item>Mi hesabı şifresini değiştirin</item>
+        <item>Değiştir;Şifre;Xiaomi;Mi hesabı;Hesap</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Aile depolama alanı</item>
+        <item>Aile depolama alanını görüntüleyin veya açın</item>
+        <item>Aile depolama alanı;Depolama paylaşımı</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Aile hizmetleri</item>
+        <item>Aile hizmetlerini görüntüleyin veya açın</item>
+        <item>Aile;Aile hizmetleri;Aile paylaşımı</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Yardım</item>
+        <item>Mi hesap yardımı ve desteği alın</item>
+        <item>Xiaomi;Hesap;Mi hesabı;Yardım;Destek;Görünüm</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Oturum açma ve güvenlik</item>
+        <item>Kurtarma telefonu, e-postas ve şifre yönetimi</item>
+        <item>Hesap;Güvenlik;Giriş;Giriş;Xiaomi;Mi hesabı;Telefon numarası;E-posta;Değiştir;Şifre;Ekle;Eşleştir</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Cihazlar</item>
+        <item>Mi hesabınızla ilişkili cihazları yönetin</item>
+        <item>Cihazlar;Yönet;Giriş yap;Giriş yap;Cihaz listesi;Xiaomi;Mi hesabı;Hesap</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Gizlilik politikası</item>
+        <item>Mi hesabı gizlilik politikasını görüntüle</item>
+        <item>Xiaomi;Hesap;Mi hesabı;Gizlilik;Politika;Görünüm</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Kurtarma e-postası</item>
+        <item>Kurtarma e-postası ekleyin</item>
+        <item>Güvenlik;E-posta;Xiaomi;Hesap;Mi hesabı;Ekle;Eşleştir</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Kurtarma telefonu</item>
+        <item>Kurtarma telefon numarası ekleyin</item>
+        <item>Güvenlik;Hesap;Mi hesabı;Telefon;Xiaomi;Telefon numarası;Ekle;Eşleştir</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Reklamlar</item>
+        <item>Sistem reklamlarını yönetin</item>
+        <item>Sistem;Reklamlar;Xiaomi;Hesap;Mi hesabı;Ayarlar</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Hesap bilgisi</item>
+        <item>Profil fotoğrafınızı görüntüleyin ve hesap bilgilerinizi yönetin</item>
+        <item>Hesap;Bilgi;Kişisel;Profil fotoğrafı;Ad;Xiaomi;Kimlik;Mi hesabı;Görünüm;Ayarlar</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Kullanıcı sözleşmesi</item>
+        <item>Mi hesabı kullanıcı sözleşmesini görüntüle</item>
+        <item>Xiaomi;Hesap;Mi hesabı;Kullanıcı;Sözleşme;Görünüm</item>
+    </string-array>
+</resources>

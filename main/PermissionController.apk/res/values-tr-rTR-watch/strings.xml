@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_permission_button_allow_always">Her zaman</string>
+    <string name="app_permission_button_allow_foreground">Uygulamayı kullanırken</string>
+    <string name="grant_dialog_button_allow_always">Her zaman</string>
+    <string name="grant_dialog_button_allow_background">Her zaman</string>
+    <string name="grant_dialog_button_allow_foreground">Uygulamayı kullanırken</string>
+    <string name="permission_access_always">Her zaman</string>
+    <string name="permission_access_only_foreground">Uygulamayı kullanırken</string>
+    <string name="permission_summary_enforced_by_policy">Değiştirilemez</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">Reddet ve bir daha sorma</string>
+    <string name="preference_show_system_apps">Sistem uygulamalarını göster</string>
+    <string name="generic_cancel">İptal et</string>
+    <string name="generic_yes">Evet</string>
+</resources>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animation_rate_entries">
+        <item>Rahat</item>
+        <item>Dengeli</item>
+        <item>Hızlı</item>
+    </string-array>
+    <string-array name="color_filter_type_name">
+        <item></item>
+        <item>Kırmızı</item>
+        <item>Sarı</item>
+        <item>Yeşil</item>
+        <item>Mavi</item>
+        <item>Mor</item>
+        <item>Siyah</item>
+    </string-array>
+    <string-array name="editing_mode_entries_new">
+        <item>Duvar kağıdı</item>
+        <item>Efektler</item>
+        <item>Araçlar</item>
+        <item>Ayarlar</item>
+    </string-array>
+    <string-array name="icon_size">
+        <item>ÇK</item>
+        <item>K</item>
+        <item>O</item>
+        <item>B</item>
+        <item>ÇB</item>
+    </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>Varsayılan</item>
+        <item>Mavi</item>
+        <item>Yeşil</item>
+        <item>Mor</item>
+        <item>Kahverengi</item>
+    </string-array>
+    <string-array name="no_word_model_entries">
+        <item>Kapalı</item>
+        <item>Tümü</item>
+        <item>Araçlar</item>
+    </string-array>
+    <string-array name="no_word_model_entries_not_support_only_widget_no_word">
+        <item>Kapalı</item>
+        <item>Tümü</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Slayt</item>
+        <item>Çapraz solma</item>
+        <item>Takla</item>
+        <item>Sayfa</item>
+        <item>Kademeli</item>
+        <item>Döndür</item>
+        <item>Küp</item>
+    </string-array>
+    <string-array name="widget_component_add_source">
+        <item>Masaüstü seçici</item>
+        <item>Uygulama içi</item>
+        <item>Kısayolları uygula</item>
+        <item>Konu sayfası</item>
+        <item>Klasik bileşenler</item>
+        <item>Negatif ekran seçici</item>
+        <item>Negatif ekran öneri kartı konumu</item>
+        <item>Negatif ekran öneri kartı haritası</item>
+        <item>Yapay itme</item>
+        <item>Masaüstü kısayolunu değiştir</item>
+        <item>Yükselt ve değiştir</item>
+    </string-array>
+    <string-array name="widget_component_add_way">
+        <item>Seçici ayrıntıları sayfasından sürükleyip bırakın</item>
+        <item>Seçici ayrıntıları sayfası ekle düğmesi</item>
+        <item>Seçici ana sayfasından sürükleyip bırakın</item>
+        <item>Şelale sayfasından sürükleyin</item>
+        <item>Filtreler sayfasından uygulaya tıklayın</item>
+        <item>Sayfayı düzenle uygulama düğmesi</item>
+        <item>Ana sayfa kaydırma kartı ekleme düğmesi</item>
+        <item>Filtre sayfasından sürükleyip bırakın</item>
+        <item>Kartı kategori sayfasından sürükleyip kaydırın</item>
+        <item>Arama sonuçları sayfasından sürükleyip bırakın</item>
+        <item>Yükselt ve değiştir</item>
+    </string-array>
+    <string-array name="widget_component_default_source">
+        <item>Varsayılan olmayan</item>
+        <item>Masaüstü</item>
+        <item>Negatif bir ekran</item>
+    </string-array>
+    <string-array name="widget_component_delete_way">
+        <item>Kısayolu sil</item>
+        <item>Üst kısmı kaldır</item>
+        <item>Uygulamayı kaldır</item>
+        <item>Kısayolu değiştir</item>
+        <item>Çevrimdışına it</item>
+        <item>Başarısız oldu</item>
+        <item>Diğer</item>
+        <item>Yükselt ve değiştir</item>
+    </string-array>
+    <string-array name="widget_component_source">
+        <item>Varsayılan düzen</item>
+        <item>Aktif olarak ekle</item>
+        <item>Operasyonel izinsiz giriş</item>
+        <item>Kart değiştir</item>
+    </string-array>
+    <string-array name="widget_drag_type_name">
+        <item>Masaüstü</item>
+        <item>Negatif ekran</item>
+        <item>Masaüstünden negatif ekrana</item>
+        <item>Masaüstüne negatif ekrana</item>
+    </string-array>
+    <string-array name="widget_host_module_name">
+        <item>Masaüstü</item>
+        <item>Negatif bir screen_component alanı</item>
+        <item>Negatif ekran_gerçek zamanlı dinamik</item>
+    </string-array>
+    <string-array name="widget_package_install_status">
+        <item>Yüklü değil</item>
+        <item>Yüklü</item>
+        <item>Yükseltilebilir</item>
+    </string-array>
+</resources>

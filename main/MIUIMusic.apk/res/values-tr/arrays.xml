@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passport_account_user_gender_name">
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+    <string-array name="recommendation_desc_week">
+        <item>Pazar önerileri</item>
+        <item>Pazartesi önerileri</item>
+        <item>Salı önerileri</item>
+        <item>Çarşamba önerileri</item>
+        <item>Perşembe önerileri</item>
+        <item>Cuma önerileri</item>
+        <item>Cumartesi önerileri</item>
+    </string-array>
+    <string-array name="xout_feedback_content">
+        <item>İlgilenmiyorum</item>
+        <item>Tekrar</item>
+        <item>Uygunsuz içerik</item>
+        <item>Yanıltıcı veya dolandırıcılık</item>
+        <item>İçerik yönergeleri ihlal ediyor</item>
+        <item>Diğer</item>
+    </string-array>
+</resources>

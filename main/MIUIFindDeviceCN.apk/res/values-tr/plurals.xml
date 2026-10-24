@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d saat önce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d saat içinde</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">%d dakika içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
+    </plurals>
+    <plurals name="code_device_offline_days">
+        <item quantity="other">%1$d gün boyunca çevrimdışı</item>
+        <item quantity="one">%1$d gün boyunca çevrimdışı</item>
+    </plurals>
+    <plurals name="day_ago">
+        <item quantity="other">%1$d dakika önce</item>
+        <item quantity="one">%1$d dakika önce</item>
+    </plurals>
+    <plurals name="find_device_detail_distance_range_km">
+        <item quantity="other">%1$s kilometre</item>
+        <item quantity="one">%1$s kilometre</item>
+    </plurals>
+    <plurals name="find_device_detail_distance_range_m">
+        <item quantity="other">%1$d metre</item>
+        <item quantity="one">%1$d metre</item>
+    </plurals>
+    <plurals name="find_tag_follow_you">
+        <item quantity="other">Yakınınızda %d adet öğe tespit edildi. Ayrıntıları görüntülemek için dokunun</item>
+        <item quantity="one">Yakınınızda %d adet öğe tespit edildi. Ayrıntıları görüntülemek için dokunun</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="hour_ago">
+        <item quantity="other">%1$d saat önce</item>
+        <item quantity="one">%1$d saat önce</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 saat içerisinde</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">1 dakika içerisinde</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="message_board_max_count_toast">
+        <item quantity="other">En fazla %d karakter girin</item>
+        <item quantity="one">En fazla %d karakter girin</item>
+    </plurals>
+    <plurals name="minute_ago">
+        <item quantity="other">%1$d dakika önce</item>
+        <item quantity="one">%1$d dakika önce</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="name_too_long_please_retry_2">
+        <item quantity="other">En fazla %1$d karakter girebilirsiniz</item>
+        <item quantity="one">En fazla %1$d karakter girebilirsiniz</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">" %d dakika önce"</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="precise_find_distance">
+        <item quantity="other">%1$s metre uzakta</item>
+        <item quantity="one">%1$s metre uzakta</item>
+    </plurals>
+    <plurals name="precise_find_distance_back">
+        <item quantity="other">%1$s metre arkada</item>
+        <item quantity="one">%1$s metre arkada</item>
+    </plurals>
+    <plurals name="precise_find_distance_back_left">
+        <item quantity="other">%1$s soldan geride</item>
+        <item quantity="one">%1$s soldan geride</item>
+    </plurals>
+    <plurals name="precise_find_distance_back_right">
+        <item quantity="other">%1$s metre sağda geride</item>
+        <item quantity="one">%1$s metre sağda geride</item>
+    </plurals>
+    <plurals name="precise_find_distance_front">
+        <item quantity="other">%1$s metre önde</item>
+        <item quantity="one">%1$s metre önde</item>
+    </plurals>
+    <plurals name="precise_find_distance_front_left">
+        <item quantity="other">%1$s metre ileride solda</item>
+        <item quantity="one">%1$s metre ileride solda</item>
+    </plurals>
+    <plurals name="precise_find_distance_front_right">
+        <item quantity="other">%1$s metre ileride sağda</item>
+        <item quantity="one">%1$s metre ileride sağda</item>
+    </plurals>
+    <plurals name="precise_find_distance_left">
+        <item quantity="other">%1$s metre solda</item>
+        <item quantity="one">%1$s metre solda</item>
+    </plurals>
+    <plurals name="precise_find_distance_near">
+        <item quantity="other">%1$s metre yakında</item>
+        <item quantity="one">%1$s metre yakında</item>
+    </plurals>
+    <plurals name="precise_find_distance_right">
+        <item quantity="other">%1$s metre sağda</item>
+        <item quantity="one">%1$s metre sağda</item>
+    </plurals>
+    <plurals name="precise_find_volume_reminder_confirm_time">
+        <item quantity="other">Oynat (%d)</item>
+        <item quantity="one">Oynat (%d)</item>
+    </plurals>
+    <plurals name="trust_location_search_result_distance">
+        <item quantity="other">%1$d metre</item>
+        <item quantity="one">%1$d metre</item>
+    </plurals>
+    <plurals name="week_ago">
+        <item quantity="other">%1$d hafta önce</item>
+        <item quantity="one">%1$d hafta önce</item>
+    </plurals>
+</resources>

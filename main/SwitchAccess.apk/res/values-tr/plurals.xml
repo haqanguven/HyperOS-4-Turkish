@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dots">
+        <item quantity="other">%s nokta</item>
+        <item quantity="one">%s nokta</item>
+    </plurals>
+    <plurals name="gestures_recorded_message">
+        <item quantity="other">%d hareket kaydedildi</item>
+        <item quantity="one">1 hareket kaydedildi</item>
+        <item quantity="two">%d hareket kaydedildi</item>
+        <item quantity="few">%d hareket kaydedildi</item>
+        <item quantity="many">%d hareket kaydedildi</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d anahtar atandı</item>
+        <item quantity="zero">%d anahtar atandı</item>
+        <item quantity="one">%d anahtar atandı</item>
+        <item quantity="two">%d anahtar atandı</item>
+        <item quantity="few">%d anahtar atandı</item>
+        <item quantity="many">%d anahtar atandı</item>
+    </plurals>
+    <plurals name="label_num_scanning_loops_format">
+        <item quantity="other">%d döngü</item>
+        <item quantity="one">%d döngü</item>
+        <item quantity="two">%d döngü</item>
+        <item quantity="few">%d döngü</item>
+        <item quantity="many">%d döngü</item>
+    </plurals>
+    <plurals name="line_speed_summary_format">
+        <item quantity="other">Saniyede %.2f cm</item>
+        <item quantity="one">Saniyede 1 cm</item>
+        <item quantity="two">Saniyede %.2f cm</item>
+        <item quantity="few">Saniyede %.2f cm</item>
+        <item quantity="many">Saniyede %.2f cm</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="time_delay_summary_format">
+        <item quantity="other">%.2f saniye</item>
+        <item quantity="zero">0 saniye</item>
+        <item quantity="one">1 saniye</item>
+        <item quantity="two">%.2f saniye</item>
+        <item quantity="few">%.2f saniye</item>
+        <item quantity="many">%.2f saniye</item>
+    </plurals>
+</resources>

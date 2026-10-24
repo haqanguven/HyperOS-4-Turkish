@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="disable_taplus_apps">
+        <item quantity="other">%d uygulama kullanmıyor</item>
+        <item quantity="one">%d uygulama kullanmıyor</item>
+    </plurals>
+    <plurals name="enable_taplus_apps">
+        <item quantity="other">%d uygulama kullanıyor</item>
+        <item quantity="one">%d uygulama kullanıyor</item>
+    </plurals>
+    <plurals name="enable_taplus_apps_count">
+        <item quantity="other">%d uygulama</item>
+        <item quantity="one">%d uygulama</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">%d uygulama arasında ara</item>
+        <item quantity="one">%d uygulama arasında ara</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
+    </plurals>
+    <plurals name="privacy_revoke_dialog_positive_text_numbers_description">
+        <item quantity="other">Geri al. Geri sayım: %d saniye</item>
+        <item quantity="one">Geri al. Geri sayım: %d saniye</item>
+    </plurals>
+    <plurals name="settings_added_blacklist_title">
+        <item quantity="other">%d uygulama istisnalara eklendi</item>
+        <item quantity="one">%d uygulama istisnalara eklendi</item>
+    </plurals>
+    <plurals name="settings_no_added_blacklist_title">
+        <item quantity="other">%d uygulama kullanılabilir</item>
+        <item quantity="one">%d uygulama kullanılabilir</item>
+    </plurals>
+</resources>

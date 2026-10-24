@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_transit_card_common_problem_names">
+        <item>Ortak sorun</item>
+    </string-array>
+    <string-array name="bind_bank_card_faq_msg">
+        <item>Fonların güvenliği için lütfen mevcut kart sahibinin banka kartını tanımlayın. Tanımlama işlemi başarıyla tamamlandığında kimlik bilgileri Xiaomi hesabınızla ilişkilendirilecektir</item>
+        <item>Kartınızı okuttuğunuzda girmeniz gereken altı haneli şifre</item>
+        <item>Geçerlilik tarihi kredi kartının ön yüzünde yazılıdır</item>
+        <item>Kartın arka yüzünde yer alan 3 haneli numara</item>
+        <item>Bankada kayıtlı cep telefonu numarası. Kayıtlı numara yoksa numara unutulmuşsa veya kullanım dışı kalmışsa lütfen güncelleme işlemi için bankanın müşteri hizmetleriyle iletişime geçin</item>
+    </string-array>
+    <string-array name="bind_bank_card_faq_title">
+        <item>Kart sahibinin banka kartı numarası</item>
+        <item>Para çekme kodu</item>
+        <item>Geçerlilik süresi nedir</item>
+        <item>CVN2 nedir</item>
+        <item>Bankaya kayıtlı telefon numarası</item>
+    </string-array>
+</resources>

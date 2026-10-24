@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d saat önce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d saat içinde</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat içinde</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dakika içinde</item>
+        <item quantity="one">%d dakika içinde</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
+    </plurals>
+    <plurals name="ai_cannot_add_content_toast_text">
+        <item quantity="other">Her not %1$s karakteri aşamaz. Daha fazla içerik eklenemez</item>
+        <item quantity="one">Her not %1$s karakteri aşamaz. Daha fazla içerik eklenemez</item>
+    </plurals>
+    <plurals name="ai_cannot_useAI_toast_text">
+        <item quantity="other">%1$s karakterden uzun notlar için yapay zeka yazımı kullanılamıyor</item>
+        <item quantity="one">%1$s karakterden uzun notlar için yapay zeka yazımı kullanılamıyor</item>
+    </plurals>
+    <plurals name="ai_content_exceeded_warn">
+        <item quantity="other">Bu notun içeriği yapay zeka işleme sınırlarını aşıyor. En fazla %1$s karakter girin ve tekrar deneyin</item>
+        <item quantity="one">Bu notun içeriği yapay zeka işleme sınırlarını aşıyor. En fazla %1$s karakter girin ve tekrar deneyin</item>
+    </plurals>
+    <plurals name="ai_correct_mistakes">
+        <item quantity="other">%1$s hatası düzeltildi</item>
+        <item quantity="one">%1$s hatası düzeltildi</item>
+    </plurals>
+    <plurals name="ai_tag_words_more_than">
+        <item quantity="other">%1$s+ karakter</item>
+        <item quantity="one">%1$s+ karakter</item>
+    </plurals>
+    <plurals name="ai_word_count_exceed_title">
+        <item quantity="other">%1$s karakterden uzun içerik oluşturulamıyor</item>
+        <item quantity="one">%1$s karakterden uzun içerik oluşturulamıyor</item>
+    </plurals>
+    <plurals name="alert_message_batch_delete">
+        <item quantity="other">Seçilen %1$d notlarının silinmesini onaylıyor musunuz?</item>
+    </plurals>
+    <plurals name="alert_message_delete">
+        <item quantity="other">%1$s öğe silinsin mi?</item>
+        <item quantity="one">%1$s öğe silinsin mi?</item>
+    </plurals>
+    <plurals name="batch_pin_success">
+        <item quantity="other">%1$d not sabitlenmiştir</item>
+    </plurals>
+    <plurals name="batch_unpin_success">
+        <item quantity="other">%1$d banknotlarının sabitlemesi kaldırıldı</item>
+    </plurals>
+    <plurals name="cd_folder_note_count">
+        <item quantity="other">%d not</item>
+    </plurals>
+    <plurals name="cd_photo_index">
+        <item quantity="other">Sayfa %d</item>
+    </plurals>
+    <plurals name="cd_photo_total">
+        <item quantity="other">Toplam %d sayfa</item>
+    </plurals>
+    <plurals name="cd_playback_forward">
+        <item quantity="other">Hızlı %d saniye ileri sar</item>
+    </plurals>
+    <plurals name="cd_playback_rewind">
+        <item quantity="other">%d saniye geri sar</item>
+    </plurals>
+    <plurals name="cd_playback_speed_float">
+        <item quantity="other">Oynatma hızı, %.1f kat</item>
+    </plurals>
+    <plurals name="cd_playback_speed_int">
+        <item quantity="other">Oynatma hızı, %d kez</item>
+    </plurals>
+    <plurals name="cd_time_hours">
+        <item quantity="other">%d saat</item>
+    </plurals>
+    <plurals name="cd_time_minutes">
+        <item quantity="other">%d dakika</item>
+    </plurals>
+    <plurals name="cd_time_seconds">
+        <item quantity="other">%d saniye</item>
+    </plurals>
+    <plurals name="chat_history_batch_delete_message">
+        <item quantity="other">Seçilen %1$d geçmiş kayıtları kalıcı olarak silinecek ve kurtarılamayacaktır. Silme işlemini onaylıyor musunuz?</item>
+    </plurals>
+    <plurals name="chat_history_message_count">
+        <item quantity="other">Toplam %1$d mesaj</item>
+    </plurals>
+    <plurals name="cloud_banner_notes_unsync">
+        <item quantity="other">%1$d not henüz Xiaomi buluta senkronize edilmedi</item>
+    </plurals>
+    <plurals name="cloud_banner_sync_done_notes">
+        <item quantity="other">%d not</item>
+    </plurals>
+    <plurals name="cloud_banner_sync_done_todos">
+        <item quantity="other">%d adet yapılacak iş</item>
+    </plurals>
+    <plurals name="cloud_banner_todos_unsync">
+        <item quantity="other">%1$d öğe henüz Xiaomi bulut ile senkronize edilmedi</item>
+    </plurals>
+    <plurals name="cloud_state_synced_folders">
+        <item quantity="other">%1$s klasör senkronize edildi</item>
+        <item quantity="one">%1$s klasör senkronize edildi</item>
+    </plurals>
+    <plurals name="cloud_state_synced_items">
+        <item quantity="other">%1$s öğe senkronize edildi</item>
+        <item quantity="one">%1$s öğe senkronize edildi</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%1$s öğe senkronize edilmedi</item>
+        <item quantity="one">%1$s öğe senkronize edilmedi</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_folders">
+        <item quantity="other">%1$s klasörleri senkronize edilmiyor</item>
+        <item quantity="one">%1$s klasörleri senkronize edilmiyor</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_items">
+        <item quantity="other">%1$s öğeleri senkronize edilmiyor</item>
+        <item quantity="one">%1$s öğeleri senkronize edilmiyor</item>
+    </plurals>
+    <plurals name="corrected_title">
+        <item quantity="other">%1$s düzeltme</item>
+        <item quantity="one">%1$s düzeltme</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_mm">
+        <item quantity="other">Yükseklik %d milimetreyi geçemez. Tekrar girin</item>
+        <item quantity="one">Yükseklik %d milimetreyi geçemez. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_px">
+        <item quantity="other">Yükseklik %d pikseli geçemez. Tekrar girin</item>
+        <item quantity="one">Yükseklik %d pikseli geçemez. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_mm">
+        <item quantity="other">Yükseklik %d milimetreden düşük olamaz. Tekrar girin</item>
+        <item quantity="one">Yükseklik %d milimetreden düşük olamaz. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_px">
+        <item quantity="other">Yükseklik %d pikselden düşük olamaz. Tekrar girin</item>
+        <item quantity="one">Yükseklik %d pikselden düşük olamaz. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_mm">
+        <item quantity="other">Genişlik %d milimetreyi geçemez. Tekrar girin</item>
+        <item quantity="one">Genişlik %d milimetreyi geçemez. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_px">
+        <item quantity="other">Genişlik %d pikseli geçemez. Tekrar girin</item>
+        <item quantity="one">Genişlik %d pikseli geçemez. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_mm">
+        <item quantity="other">Genişlik %d milimetreden daha düşük olamaz. Tekrar girin</item>
+        <item quantity="one">Genişlik %d milimetreden daha düşük olamaz. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_px">
+        <item quantity="other">Genişlik %d pikselden düşük olamaz. Tekrar girin</item>
+        <item quantity="one">Genişlik %d pikselden düşük olamaz. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_terms">
+        <item quantity="other">%1$s öğe</item>
+        <item quantity="one">%1$s öğe</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d gün sonra</item>
+        <item quantity="one">%1$d gün sonra</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d gün önce</item>
+        <item quantity="one">%1$d gün önce</item>
+    </plurals>
+    <plurals name="fold_num">
+        <item quantity="other">%d klasörü</item>
+    </plurals>
+    <plurals name="folder_batch_delete_message">
+        <item quantity="other">Seçilen %1$d klasörün silinmesini onaylıyor musunuz?</item>
+    </plurals>
+    <plurals name="folder_selected_count">
+        <item quantity="other">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s klasör</item>
+        <item quantity="one">%1$s klasör</item>
+    </plurals>
+    <plurals name="format_move_notes_out_folder">
+        <item quantity="other">%1$s not klasörden kaldırıldı</item>
+        <item quantity="one">%1$s not klasörden kaldırıldı</item>
+    </plurals>
+    <plurals name="format_move_notes_to_folder">
+        <item quantity="other">%1$s not %2$s klasörüne taşındı</item>
+        <item quantity="one">%1$s not %2$s klasörüne taşındı</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="image_import_max_limit">
+        <item quantity="other">En fazla %d görsel seçin</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 saat içinde</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat içinde</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dakika içinde</item>
+        <item quantity="one">1 dakika içinde</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="migration_banner_sync_text">
+        <item quantity="other">%d adet eski formatlı not tespit edildi. Bunları görüntülemek ve yapay zeka özelliklerini etkinleştirmek için yeni formata dönüştürün</item>
+    </plurals>
+    <plurals name="migration_completed">
+        <item quantity="other">Taşıma işlemi tamamlandı. Toplam %1$d adet senet taşındı</item>
+    </plurals>
+    <plurals name="migration_completed_fail_count">
+        <item quantity="other">%d başarısız oldu</item>
+    </plurals>
+    <plurals name="migration_completed_success_count">
+        <item quantity="other">%d başarılı oldu</item>
+    </plurals>
+    <plurals name="migration_result_fail_only">
+        <item quantity="other">Taşıma işlemi tamamlandı: %1$d kayıt başarısız oldu</item>
+    </plurals>
+    <plurals name="migration_result_success_only">
+        <item quantity="other">Taşıma işlemi tamamlandı: %1$d kayıt başarılı oldu</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
+    </plurals>
+    <plurals name="move_to_folder_success">
+        <item quantity="other">"%1$d'lik banknot %2$s'lik banknota taşındı"</item>
+    </plurals>
+    <plurals name="multi_select_count">
+        <item quantity="other">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="note_num">
+        <item quantity="other">%d not</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s not</item>
+        <item quantity="one">%1$s not</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">%1$s görev bulundu</item>
+        <item quantity="one">%1$s görev bulundu</item>
+    </plurals>
+    <plurals name="private_notes_selected_count">
+        <item quantity="other">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="recently_deleted_confirm_delete_message">
+        <item quantity="other">Seçilen %1$d banknotlarının kalıcı olarak silinmesini onaylıyor musunuz? Bu işlem geri alınamaz</item>
+    </plurals>
+    <plurals name="recently_deleted_selected_count">
+        <item quantity="other">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="recently_deleted_subtitle">
+        <item quantity="other">Son zamanlarda silinen notlar yalnızca %d gün süreyle saklanabilir</item>
+    </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">%d saniye kaldı</item>
+        <item quantity="one">%d saniye kaldı</item>
+    </plurals>
+    <plurals name="search_found_notes">
+        <item quantity="other">%1$d ile ilgili notlar bulundu</item>
+    </plurals>
+    <plurals name="search_match_count">
+        <item quantity="other">%1$d not eşleşti</item>
+    </plurals>
+    <plurals name="sync_all_done_1">
+        <item quantity="other">%d not</item>
+    </plurals>
+    <plurals name="sync_all_done_2">
+        <item quantity="other">%d adet yapılacak iş</item>
+    </plurals>
+    <plurals name="sync_notes_and_todos_unsync_1">
+        <item quantity="other">%d not</item>
+    </plurals>
+    <plurals name="sync_notes_and_todos_unsync_2">
+        <item quantity="other">%d adet yapılacak iş</item>
+    </plurals>
+    <plurals name="sync_notes_unsync">
+        <item quantity="other">%1$d not Xiaomi bulut hizmeti ile senkronize edilmedi</item>
+    </plurals>
+    <plurals name="sync_todos_unsync">
+        <item quantity="other">%1$d adet bekleyen görev Xiaomi bulut hizmeti ile senkronize edilmedi</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">%1$s not başarıyla gösterildi</item>
+        <item quantity="one">%1$s not başarıyla gösterildi</item>
+    </plurals>
+    <plurals name="todo_N_days_after">
+        <item quantity="other">%1$d gün içinde</item>
+        <item quantity="one">%1$d gün içinde</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">%1$d gün önce</item>
+        <item quantity="one">%1$d gün önce</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">%1$s görev silinsin mi?</item>
+        <item quantity="one">%1$s görev silinsin mi?</item>
+    </plurals>
+    <plurals name="todo_count_format">
+        <item quantity="other">Toplam %1$d milyar kalem beklemede</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">%1$d gün önce</item>
+        <item quantity="one">%1$d gün önce</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">%1$d gün içinde</item>
+        <item quantity="one">%1$d gün içinde</item>
+    </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s yapışkan not</item>
+        <item quantity="one">%1$s yapışkan not</item>
+    </plurals>
+    <plurals name="wearable_completion_title">
+        <item quantity="other">%d adet not oluşturuldu</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">%d karakter</item>
+        <item quantity="one">%d karakter</item>
+    </plurals>
+    <plurals name="wv_note_editor_word_count">
+        <item quantity="other">%1$d karakteri</item>
+    </plurals>
+</resources>

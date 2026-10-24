@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_fix">
+        <item>miui, aç, indir</item>
+        <item>İndir, yazılım, aç, nerede, nerede, nerede, nasıl, uygulama, uygulama indirme, indir ve kur, uygulama yazılımı, ücretsiz indirme</item>
+    </string-array>
+    <string-array name="func_fix">
+        <item>miui, aç, indir</item>
+        <item>İndir, yazılım, aç, nerede, nerede, nasıl, kurulur, nasıl kurulur</item>
+    </string-array>
+    <string-array name="setting_fix">
+        <item>Xiaomi telefon, Redmi telefon, sistem, miui, nasıl ayarlanır, açılır, iptal edilir, kapatılır</item>
+        <item>İndir, aç, yazılım, nerede, nerede, nasıl, ayarla, iptal, çözüm, cep telefonu, kapat, nasıl ayarlanır</item>
+    </string-array>
+</resources>

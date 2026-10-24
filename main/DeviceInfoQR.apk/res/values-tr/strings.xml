@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_app">Kapalı</string>
+    <string name="hint_battery_reset_usage_date_failed">Pilin ilk kullanım tarihi sıfırlanamadı</string>
+    <string name="hint_battery_reset_usage_date_success">Pilin ilk kullanım tarihi başarıyla sıfırlandı</string>
+    <string name="hint_close_app">Kapatmak için hızlıca çift tıklayın</string>
+    <string name="hint_shipmode_on">Gemi moduna girin. Cihaz 10 saniye içinde kapanacak</string>
+    <string name="in_progress">Devam ediyor</string>
+    <string name="indeterminate">Kısmi olarak kontrol edildi</string>
+    <string name="not_selected">Seçili değil</string>
+    <string name="selected">Seçildi</string>
+    <string name="shipmode_on">Gemi moduna girin</string>
+    <string name="template_percent">Yüzde %1$d</string>
+</resources>

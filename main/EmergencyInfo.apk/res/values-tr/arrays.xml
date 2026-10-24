@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animator_duration_scale_entries">
+        <item>Kapalı</item>
+        <item>5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+        <item>5x</item>
+        <item>10x</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standart sınır</item>
+        <item>Arka planda işlem yok</item>
+        <item>En çok 1 işlem</item>
+        <item>En çok 2 işlem</item>
+        <item>En çok 3 işlem</item>
+        <item>En çok 4 işlem</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>16 bit/örnek</item>
+        <item>24 bit/örnek</item>
+        <item>32 bit/örnek</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>16 bit/örnek</item>
+        <item>24 bit/örnek</item>
+        <item>32 bit/örnek</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Ses kalitesi için optimize edildi</item>
+        <item>Dengeli ses ve bağlantı kalitesi</item>
+        <item>Bağlantı kalitesi için optimize edildi</item>
+        <item>En iyi sonuç (Uyarlanabilir Bit hızı)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Ses kalitesi için optimize edildi (990kb saniye/909kb saniye)</item>
+        <item>Dengeli ses ve bağlantı kalitesi (660kb saniye/606 kb saniye)</item>
+        <item>Bağlantı kalitesi için optimize edildi (330kb saniye/303kb saniye)</item>
+        <item>En iyi sonuç (Uyarlanabilir Bit hızı)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ses</item>
+        <item>Qualcomm® aptX™ HD ses</item>
+        <item>LDAC</item>
+        <item>Opus</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Etkin"</item>
+        <item>" | Etkin (Medya)"</item>
+        <item>" | Etkin (Telefon)"</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.5 (Varsayılan)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.4</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.4 (Varsayılan)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.2</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Devre dışı</item>
+        <item>Etkin filtre uygulandı</item>
+        <item>Etkin</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Yalnızca ACL başlıklarını filtrele</item>
+        <item>A2DP ortam paketlerini filtrele</item>
+        <item>RFCOMM kanalını filtrele</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Devre dışı</item>
+        <item>Karakter dizisiyle doldurun</item>
+        <item>Yalnızca başlığı bırak</item>
+        <item>Tamamen kaldır</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Geliştirilmiş renkler</item>
+        <item>Göze göründüğü şekilde doğal renkler</item>
+        <item>Dijital içerik için optimize edilmiş renkler</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Canlı (Varsayılan)</item>
+        <item>Doğal</item>
+        <item>Standart</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Kapalı</item>
+        <item>Fazla çizilen alanları göster</item>
+        <item>Alanları renk körlüğüne uygun olarak göster</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Hiçbiri</item>
+        <item>Kayıt günlüğü</item>
+        <item>Systrace (Grafik)</item>
+        <item>glGetError arama yığını</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>HDCP kontrolünü hiçbir zaman kullanma</item>
+        <item>DRM içeriği için yalnızca HDCP kontrol kullan</item>
+        <item>HDCP kontrolünü her zaman kullan</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Asla kontrol etme</item>
+        <item>Sadece DRM içeriğini kontrol et</item>
+        <item>Her zaman kontrol et</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Yok</item>
+        <item>480p</item>
+        <item>480p (Güvenli)</item>
+        <item>720p</item>
+        <item>720p (Güvenli)</item>
+        <item>1080p</item>
+        <item>1080p (Güvenli)</item>
+        <item>4K</item>
+        <item>4K (Güvenli)</item>
+        <item>4K (Yukarı ölçeklenmiş)</item>
+        <item>4K (Yukarı ölçeklenmiş - güvenli)</item>
+        <item>720p, 1080p (Çift ekran)</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Kapalı</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Kapalı</item>
+        <item>Günlük arabellek başına 64KB</item>
+        <item>Günlük arabellek başına 256KB</item>
+        <item>Günlük arabellek başına 1MB</item>
+        <item>Günlük arabellek başına 4MB</item>
+        <item>Günlük arabellek başına 16MB</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Kapalı</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+        <item>4MB</item>
+        <item>16MB</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Kapalı</item>
+        <item>Tüm günlük arabellekleri</item>
+        <item>Radyo kayıt arabelleği hariç tümü</item>
+        <item>Sadece çekirdek günlük arabelleği</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Kapalı</item>
+        <item>Tümü</item>
+        <item>Radyo hariç hepsi</item>
+        <item>Sadece çekirdek</item>
+    </string-array>
+    <string-array name="shade_display_awareness_entries">
+        <item>Yalnızca cihaz ekranı (Varsayılan)</item>
+        <item>Harici ekran</item>
+        <item>En son durum çubuğu dokunuşu</item>
+        <item>Odak tabanlı</item>
+    </string-array>
+    <string-array name="shade_display_awareness_summaries">
+        <item>Gölgelendirme özelliğini yalnızca cihaz ekranında göster</item>
+        <item>Tek bir harici ekranda gölgeyi göster</item>
+        <item>Durum çubuğuyla en son etkileşim kurulan öğenin rengini ekranda göster</item>
+        <item>Son odaklanılan ekranda gölgeyi göster</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Kapalı</item>
+        <item>Dikdörtgen olmayan kırpma bölgesini mavi renk ile çiz</item>
+        <item>Test edilmiş çizim komutlarını yeşille vurgula</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Kapalı</item>
+        <item>Ekranda çubuk şeklinde</item>
+        <item>adb shell dumpsys gfxinfo içerisinde</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Kapalı</item>
+        <item>5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+        <item>5x</item>
+        <item>10x</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>İngilizce konuşma sentezine bir örnektir</item>
+        <item>Fraansızca konuşma sentezine bir örnektir</item>
+        <item>Almanca konuşma sentezine bir örnektir</item>
+        <item>İtalyanca konuşma sentezine bir örnektir</item>
+        <item>İspanyolca konuşma sentezine bir örnektir</item>
+        <item>Çince konuşma sentezine bir örnektir</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Şarj oluyor</item>
+        <item>MTP (Medya aktarma protokolü)</item>
+        <item>PTP (Resim aktarma protokolü)</item>
+        <item>RNDIS (USB ethernet)</item>
+        <item>Ses kaynağı</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Taranıyor</item>
+        <item>Bağlanıyor</item>
+        <item>Kimlik doğrulaması yapılıyor</item>
+        <item>IP adresi alınıyor</item>
+        <item>Bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>Bağlantı kesiliyor</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız oldu</item>
+        <item>Engellendi</item>
+        <item>Geçici olarak zayıf bağlantıdan kaçınılıyor</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Taranıyor</item>
+        <item>"%1$s'a bağlanılıyor"</item>
+        <item>%1$s ile kimlik doğrulaması yapılıyor</item>
+        <item>"%1$s'den IP adresi alınıyor"</item>
+        <item>"%1$s'a bağlanıldı"</item>
+        <item>Askıya alındı</item>
+        <item>%1$s bağlantısı kesiliyor</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız oldu</item>
+        <item>Engellendi</item>
+        <item>Geçici olarak zayıf bağlantıdan kaçınılıyor</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Taranıyor</item>
+        <item>Bağlanıyor</item>
+        <item>Kimlik doğrulaması yapılıyor</item>
+        <item>IP adresi alınıyor</item>
+        <item>Bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>Bağlantı kesiliyor</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız oldu</item>
+        <item>Engellendi</item>
+        <item>Geçici olarak zayıf bağlantıdan kaçınılıyor</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Kapalı</item>
+        <item>5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+        <item>5x</item>
+        <item>10x</item>
+    </string-array>
+</resources>

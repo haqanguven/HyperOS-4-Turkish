@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="attachment_chooser">
+        <item>Kamera</item>
+        <item>Galeri</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>İsim</item>
+        <item>Kullanıcı adı</item>
+        <item>Telefon</item>
+        <item>E-posta</item>
+        <item>Şirket</item>
+        <item>IM</item>
+        <item>SIP telefon</item>
+        <item>Doğum günü</item>
+        <item>İnternet sitesi</item>
+        <item>Adres</item>
+        <item>Not</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Küçük</item>
+        <item>Orta</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Oluşturma</item>
+        <item>Değiştirme</item>
+    </string-array>
+    <string-array name="settings_ai_engine_source_entries">
+        <item>Yerel</item>
+        <item>Miclaw</item>
+    </string-array>
+    <string-array name="settings_font_size_entries">
+        <item>Küçük</item>
+        <item>Varsayılan</item>
+        <item>Büyük</item>
+        <item>Ekstra büyük</item>
+    </string-array>
+    <string-array name="translate_language_array">
+        <item>Basitleştirilmiş Çince</item>
+        <item>İngilizce</item>
+        <item>Azerbaycanlı</item>
+        <item>Malay</item>
+        <item>Çek</item>
+        <item>Almanca</item>
+        <item>İspanyol</item>
+        <item>Fransızca</item>
+        <item>Endonezyalı</item>
+        <item>İtalyan</item>
+        <item>Macarca</item>
+        <item>Flemenkçe</item>
+        <item>Özbekçe</item>
+        <item>Lehçe</item>
+        <item>Portekizce</item>
+        <item>Romence</item>
+        <item>Slovak</item>
+        <item>Vietnam</item>
+        <item>Türkçe</item>
+        <item>Yunan</item>
+        <item>Kazak</item>
+        <item>Rusça</item>
+        <item>Arapça</item>
+        <item>Hintçe</item>
+        <item>Tayland</item>
+        <item>Burmalı</item>
+        <item>Korece</item>
+        <item>Japonca</item>
+        <item>Geleneksel Çince (Hong Kong)</item>
+        <item>Filipinli</item>
+    </string-array>
+</resources>

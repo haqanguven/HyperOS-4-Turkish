@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d saat önce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d saat içinde</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat içinde</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dakika içinde</item>
+        <item quantity="one">%d dakika içinde</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Şu anda</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
+    </plurals>
+    <plurals name="ai_generate_progress">
+        <item quantity="other">Bu yaklaşık %s saniye sürecektir</item>
+    </plurals>
+    <plurals name="ai_wallpaper_input_characters">
+        <item quantity="other">%1$d–%2$d karakter girin</item>
+        <item quantity="one">%1$d–%2$d karakter girin</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_aod">
+        <item quantity="other">%1$d HAE tema</item>
+        <item quantity="one">%1$d HAE tema</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="other">%1$d yazı tipi</item>
+        <item quantity="one">%1$d yazı tipi</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="other">%1$d simge</item>
+        <item quantity="one">%1$d simge</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="other">%1$d tema</item>
+        <item quantity="one">%1$d tema</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_title">
+        <item quantity="other">%1$d öğe ekle</item>
+        <item quantity="one">%1$d öğe ekle</item>
+    </plurals>
+    <plurals name="anonymous_resource_link_success_message">
+        <item quantity="other">Hesabınıza %1$d öğe eklendi. Siparişlerinize eklenen ürünleri görüntüleyin</item>
+        <item quantity="one">Hesabınıza %1$d öğe eklendi. Siparişlerinize eklenen ürünleri görüntüleyin</item>
+    </plurals>
+    <plurals name="anonymous_resource_login_message">
+        <item quantity="other">"Oturum açmadıysanız yalnızca %1$d ücretsiz öğeyi indirebilirsiniz (Duvar kağıtları ve zil sesleri hariç). Öğeleri kısıtlama olmaksızın indirmek için oturum açın"</item>
+        <item quantity="one">"Oturum açmadıysanız yalnızca %1$d ücretsiz öğeyi indirebilirsiniz (Duvar kağıtları ve zil sesleri hariç). Öğeleri kısıtlama olmaksızın indirmek için oturum açın"</item>
+    </plurals>
+    <plurals name="anonymous_resource_view">
+        <item quantity="other">Hesabınıza %1$d öğe eklenmedi</item>
+        <item quantity="one">Hesabınıza %1$d öğe eklenmedi</item>
+    </plurals>
+    <plurals name="aod_batch_has_update_text">
+        <item quantity="other">%1$d tema için güncelleme mevcut</item>
+        <item quantity="one">%1$d tema için güncelleme mevcut</item>
+    </plurals>
+    <plurals name="aod_batch_updating_text">
+        <item quantity="other">%1$d tema güncelleniyor</item>
+        <item quantity="one">%1$d tema güncelleniyor</item>
+    </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Atmosfer basıncı: %s hektopaskal</item>
+        <item quantity="one">Atmosfer basıncı: %s hektopaskal</item>
+    </plurals>
+    <plurals name="audio_duration_minutes_format">
+        <item quantity="other">%1$d dakika</item>
+        <item quantity="one">%1$d dakika</item>
+    </plurals>
+    <plurals name="audio_duration_seconds_format">
+        <item quantity="other">%1$d saniye</item>
+        <item quantity="one">%1$d saniye</item>
+    </plurals>
+    <plurals name="author_follow">
+        <item quantity="other">%d takip ediliyor</item>
+        <item quantity="one">%d takip ediliyor</item>
+    </plurals>
+    <plurals name="days_example">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
+    <plurals name="de_author_fans_amount">
+        <item quantity="other">%1$d fan</item>
+        <item quantity="one">%1$d fan</item>
+    </plurals>
+    <plurals name="de_author_theme_amount">
+        <item quantity="other">%1$d öğe</item>
+        <item quantity="one">%1$d öğe</item>
+    </plurals>
+    <plurals name="de_icon_count">
+        <item quantity="other">%1$d simge</item>
+        <item quantity="one">%1$d simge</item>
+    </plurals>
+    <plurals name="de_more_comment">
+        <item quantity="other">%1$d daha fazla yorum</item>
+        <item quantity="one">%1$d daha fazla yorum</item>
+    </plurals>
+    <plurals name="detail_reward_few_times">
+        <item quantity="other">%s ödül</item>
+        <item quantity="one">%s ödül</item>
+    </plurals>
+    <plurals name="detail_reward_times">
+        <item quantity="other">%s ödül</item>
+        <item quantity="one">%s ödül</item>
+    </plurals>
+    <plurals name="detail_update_time_hour">
+        <item quantity="other">%d saat önce</item>
+        <item quantity="one">%d saat önce</item>
+    </plurals>
+    <plurals name="detail_update_time_minute">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d saniye ileri sar</item>
+        <item quantity="one">%d saniye ileri sar</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d saniye geri sar</item>
+        <item quantity="one">%d saniye geri sar</item>
+    </plurals>
+    <plurals name="group_photo_select_bg_title">
+        <item quantity="other">%1$d arka planlarını seçin %2$s</item>
+        <item quantity="one">%1$d arka planlarını seçin %2$s</item>
+    </plurals>
+    <plurals name="group_photo_select_person_title">
+        <item quantity="other">%1$d konu seçin %2$s</item>
+        <item quantity="one">%1$d konu seçin %2$s</item>
+    </plurals>
+    <plurals name="guide_used_number">
+        <item quantity="other">%1$d cihazda uygulandı</item>
+        <item quantity="one">%1$d cihazda uygulandı</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Yakılan %1$s kalori</item>
+        <item quantity="one">Yakılan %1$s kalori</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Kalori hedefi: %1$s kalori</item>
+        <item quantity="one">Kalori hedefi: %1$s kalori</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kalori</item>
+        <item quantity="one">%1$s/%2$s kalori</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Etkinlik süresi: %1$s dakika</item>
+        <item quantity="one">Etkinlik süresi: %1$s dakika</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Etkinlik hedefi: %1$s dakika</item>
+        <item quantity="one">Etkinlik hedefi: %1$s dakika</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s dakika</item>
+        <item quantity="one">%1$s/%2$s dakika</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">%1$s saat içinde ayağa kalktı</item>
+        <item quantity="one">%1$s saat içinde ayağa kalktı</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Daimi hedef: %1$s saat</item>
+        <item quantity="one">Daimi hedef: %1$s saat</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s saat</item>
+        <item quantity="one">%1$s/%2$s saat</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Geçerli adım sayısı: %1$s adım</item>
+        <item quantity="one">Geçerli adım sayısı: %1$s adım</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Adım hedefi: %1$s adım</item>
+        <item quantity="one">Adım hedefi: %1$s adım</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s adım</item>
+        <item quantity="one">%1$s/%2$s adım</item>
+    </plurals>
+    <plurals name="hours_example">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="icon_batch_has_update_text">
+        <item quantity="other">%1$d simge için güncelleme mevcut</item>
+        <item quantity="one">%1$d simge için güncelleme mevcut</item>
+    </plurals>
+    <plurals name="icon_batch_updating_text">
+        <item quantity="other">%1$d simge güncelleniyor</item>
+        <item quantity="one">%1$d simge güncelleniyor</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 saat içinde</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat içinde</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dakika içinde</item>
+        <item quantity="one">1 dakika içinde</item>
+    </plurals>
+    <plurals name="kg_history_count_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="kg_history_delete_tip_title">
+        <item quantity="other">%d öğeyi şimdi silmek istiyor musunuz?</item>
+        <item quantity="one">%d öğeyi şimdi silmek istiyor musunuz?</item>
+    </plurals>
+    <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">%1$d süper simge için bir güncelleme mevcut</item>
+        <item quantity="one">%1$d süper simge için bir güncelleme mevcut</item>
+    </plurals>
+    <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">%1$d süper simge güncelleniyor</item>
+        <item quantity="one">%1$d süper simge güncelleniyor</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_system_subscribe">
+        <item quantity="other">%1$s duvar kağıdı</item>
+        <item quantity="one">%1$s duvar kağıdı</item>
+    </plurals>
+    <plurals name="minutes_example">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">Seçili %1$d öğe</item>
+        <item quantity="one">Seçili %1$d öğe</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="pay_mibi">
+        <item quantity="other">%1$s Mi jeton ile öde</item>
+        <item quantity="one">%1$s Mi jeton ile öde</item>
+    </plurals>
+    <plurals name="rear_ai_app_pic_count_limit_toast">
+        <item quantity="other">En fazla %d görsel seçin</item>
+        <item quantity="one">En fazla %d görsel seçin</item>
+    </plurals>
+    <plurals name="rear_ai_companion_generate_too_frequent_toast">
+        <item quantity="other">Çok fazla deneme. %1$d dakika sonra tekrar deneyin</item>
+        <item quantity="one">Çok fazla deneme. %1$d dakika sonra tekrar deneyin</item>
+    </plurals>
+    <plurals name="rear_screen_ai_app_added_count">
+        <item quantity="other">%d uygulama</item>
+        <item quantity="one">%d uygulama</item>
+    </plurals>
+    <plurals name="rear_screen_batch_has_update_text">
+        <item quantity="other">%1$d arka ekran öğesi için güncellemeler mevcut</item>
+        <item quantity="one">%1$d arka ekran öğesi için güncellemeler mevcut</item>
+    </plurals>
+    <plurals name="rear_screen_batch_updating_text">
+        <item quantity="other">%1$d arka ekran öğesi güncelleniyor</item>
+        <item quantity="one">%1$d arka ekran öğesi güncelleniyor</item>
+    </plurals>
+    <plurals name="rear_screen_delete_confirm_credits_message">
+        <item quantity="other">%d adet Xiaomi Hyper XiaoAi puanı kullanılmıştır.Bunu silmeniz durumunda puanlar iade edilmeyecektir</item>
+        <item quantity="one">%d adet Xiaomi Hyper XiaoAi puanı kullanılmıştır. Bunu silmeniz durumunda puanlar iade edilmeyecektir</item>
+    </plurals>
+    <plurals name="rear_screen_free_count">
+        <item quantity="other">Hâlâ %d kez oluşturabilirsiniz</item>
+        <item quantity="one">Hâlâ %d kez oluşturabilirsiniz</item>
+    </plurals>
+    <plurals name="rear_screen_generate_cost_super_ai_credits">
+        <item quantity="other">Bu %d adet Xiaomi Hyper XiaoAi puanına mal olacak</item>
+        <item quantity="one">Bu %d adet Xiaomi Hyper XiaoAi puanına mal olacak</item>
+    </plurals>
+    <plurals name="rear_screen_generate_cost_super_ai_credits_message">
+        <item quantity="other">Bu %d adet Xiaomi Hyper XiaoAi puanına mal olacak</item>
+        <item quantity="one">Bu %d adet Xiaomi Hyper XiaoAi puanına mal olacak</item>
+    </plurals>
+    <plurals name="rear_screen_stop_generate_credits_message">
+        <item quantity="other">%d adet Xiaomi Hyper XiaoAi puanı kullanılmıştır; bu işlemi durdurmanız durumunda söz konusu puanlar iade edilmeyecektir</item>
+        <item quantity="one">%d adet Xiaomi Hyper XiaoAi puanı kullanılmıştır; bu işlemi durdurmanız durumunda söz konusu puanlar iade edilmeyecektir</item>
+    </plurals>
+    <plurals name="rear_screen_total_count">
+        <item quantity="other">Toplam %d kez</item>
+        <item quantity="one">Toplam %d kez</item>
+    </plurals>
+    <plurals name="rear_signature_max_text_size">
+        <item quantity="other">En fazla %1$d karakter girin</item>
+        <item quantity="one">En fazla %1$d karakter girin</item>
+    </plurals>
+    <plurals name="rear_signature_min_text_size">
+        <item quantity="other">En az %1$d karakter girin</item>
+        <item quantity="one">En az %1$d karakter girin</item>
+    </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d yorum</item>
+        <item quantity="one">%d yorum</item>
+    </plurals>
+    <plurals name="resource_download_notification_title_many">
+        <item quantity="other">%1$d öğe başarıyla indirildi</item>
+        <item quantity="one">%1$d öğe başarıyla indirildi</item>
+    </plurals>
+    <plurals name="resource_mibi_per_set">
+        <item quantity="other">%1$s Mi para</item>
+        <item quantity="one">%1$s Mi para</item>
+    </plurals>
+    <plurals name="resource_rating">
+        <item quantity="other">%1$.1f puan</item>
+        <item quantity="one">%1$.1f puan</item>
+    </plurals>
+    <plurals name="resource_trial_days">
+        <item quantity="other">" (Deneme: %1$d gün)"</item>
+        <item quantity="one">" (Deneme: %1$d gün)"</item>
+    </plurals>
+    <plurals name="resource_trial_hours">
+        <item quantity="other">" (Deneme: %1$d saat)"</item>
+        <item quantity="one">" (Deneme: %1$d saat)"</item>
+    </plurals>
+    <plurals name="resource_trial_minutes">
+        <item quantity="other">" (Deneme: %1$d dakika)"</item>
+        <item quantity="one">" (Deneme: %1$d dakika)"</item>
+    </plurals>
+    <plurals name="ringtone_nums">
+        <item quantity="other">%1$s zil sesi</item>
+        <item quantity="one">%1$s zil sesi</item>
+    </plurals>
+    <plurals name="theme_batch_has_update_text">
+        <item quantity="other">%1$d tema için güncelleme var</item>
+        <item quantity="one">%1$d tema için güncelleme var</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s çalışıyor</item>
+        <item quantity="one">%1$s çalışıyor</item>
+    </plurals>
+    <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">%1$d tema için güncelleme var</item>
+        <item quantity="one">%1$d tema için güncelleme var</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level">
+        <item quantity="other">Pil seviyesi şu anda yüzde %s</item>
+        <item quantity="one">Pil seviyesi şu anda yüzde %s</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level_charging">
+        <item quantity="other">Şarj oluyor. Pil seviyesi şu anda %d</item>
+        <item quantity="one">Şarj oluyor. Pil seviyesi şu anda %d</item>
+    </plurals>
+    <plurals name="trial_countdown_notification_tip">
+        <item quantity="other">%2$s öğesini %1$d saat içinde ücretsiz deneyebilirsiniz</item>
+        <item quantity="one">%2$s öğesini %1$d saat içinde ücretsiz deneyebilirsiniz</item>
+    </plurals>
+    <plurals name="try_3_day">
+        <item quantity="other">3 günlük ücretsiz deneme (Bugün için %1$d öğe kaldı)</item>
+        <item quantity="one">3 günlük ücretsiz deneme (Bugün için %1$d öğe kaldı)</item>
+    </plurals>
+    <plurals name="wallpaper_quantity">
+        <item quantity="other">%1$d fotoğraf</item>
+        <item quantity="one">%1$d fotoğraf</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">%1$s | %2$d fotoğraf</item>
+        <item quantity="one">%1$s | %2$d fotoğraf</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Sıcaklık: %1$s derece, %2$s</item>
+        <item quantity="one">Sıcaklık: %1$s derece, %2$s</item>
+    </plurals>
+</resources>

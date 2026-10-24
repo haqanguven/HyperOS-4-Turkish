@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="debug_mode_protocol_entries">
+        <item>Varsayılan</item>
+        <item>MiPlay</item>
+        <item>Miracast</item>
+        <item>AirKan</item>
+        <item>LeLink</item>
+        <item>DLNA</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Ara bağlantı</item>
+        <item>Ara bağlantı/Ara bağlantı</item>
+        <item>Cihaz ara bağlantısı, Cihaz ara bağlantı hizmetleri, Xiaomi, Xiaomi AIoT, AIoT, Ekran kombinasyonu, Akıllı bağlantı, Mi akıllı es, Ara bağlantı, Duo, Xiaomi telefon, Xiaomi dizüstü bilgisayar, Çoklu ekran, Duet, Yayınlama, Uygulamaları birleştirme, Aktarma, Uygulama aktarma, Ayna, Xiaomi ekosistemi, Cihaz bağlantısı</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Gizlilik</item>
+        <item>Ara bağlantı/Gizlilik</item>
+        <item>Gizlilik ve ara bağlantı, Gizlilik</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Ara bağlantı hizmetleri</item>
+        <item>Ara bağlantı/Ara bağlantı</item>
+        <item>Ara bağlantı hizmetleri, Ara bağlantı</item>
+    </string-array>
+    <string-array name="settings_search_mi_share">
+        <item>Xiaomi paylaşma</item>
+        <item>Ara bağlantı/Xiaomi paylaşma</item>
+        <item>Xiaomi paylaşma</item>
+    </string-array>
+    <string-array name="settings_search_mi_share_tap_share">
+        <item>Paylaşmak için dokunun</item>
+        <item>Bağlantı/Paylaşmak için dokunun</item>
+        <item>Paylaşmak için dokunun</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Uygulama aktarımı</item>
+        <item>Ara bağlantı/Uygulama</item>
+        <item>Uygulama aktarma</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Arama senkronizasyonu</item>
+        <item>Ara bağlantı/Arama senkronizasyonu</item>
+        <item>Arama senkronizasyonu</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Ağ yardımı</item>
+        <item>Ara bağlantı/Ağ yardımı</item>
+        <item>Ağ yardımı</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_2">
+        <item>Paylaşılan bağlantı</item>
+        <item>Ara bağlantı/Paylaşılan bağlantı</item>
+        <item>Paylaşılan bağlantı</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_global">
+        <item>Ağ senkronizasyonu</item>
+        <item>Ara bağlantı/Paylaşılan bağlantı</item>
+        <item>Ağ senkronizasyonu</item>
+    </string-array>
+    <string-array name="settings_search_screen_cast">
+        <item>Yayınla</item>
+        <item>Ara bağlantı/Yayınla</item>
+        <item>Yayınla, Pencereyi küçült, Ekran kapalıyken yayınla</item>
+    </string-array>
+    <string-array name="settings_search_screen_cast_help">
+        <item>Yardım</item>
+        <item>Ara bağlantı/Yayınla/Yardım</item>
+        <item>Yardım</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Ana ekran+</item>
+        <item>Ara bağlantı/ana ekran+</item>
+        <item>Ana ekran+</item>
+    </string-array>
+    <string-array name="settings_search_share_camera">
+        <item>Cihazlar arası kamera</item>
+        <item>Ara bağlantı/Cihazlar arası kamera</item>
+        <item>Cihazlar arası kamera</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Pano</item>
+        <item>Ara bağlantı/Pano</item>
+        <item>Pano</item>
+    </string-array>
+    <string-array name="settings_search_share_file">
+        <item>Cihazlar arası dosyalar</item>
+        <item>Ara bağlantı/Cihazlar arası dosyalar</item>
+        <item>Cihazlar arası dosyalar</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Cihazlar arası bildirimler</item>
+        <item>Ara bağlantı/Bildirimler</item>
+        <item>Cihazlar arası bildirimler</item>
+    </string-array>
+    <string-array name="settings_search_upay">
+        <item>Cihazlar arası ödemeler</item>
+        <item>Ara bağlantı/Cihazlar arası ödemeler</item>
+        <item>Cihazlar arası ödemeler;Cihazlar arası ödeme yapın</item>
+    </string-array>
+</resources>

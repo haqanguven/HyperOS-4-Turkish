@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auxiliay_instruction_settings_summary">
+        <item>Numarayı göster</item>
+        <item>Her zaman numarayı görüntü</item>
+        <item>Gizli numara</item>
+    </string-array>
+    <string-array name="auxiliay_instruction_settings_title">
+        <item>Numarayı göster (Bekar)</item>
+        <item>Her zaman numarayı görüntü</item>
+        <item>Gizli numara</item>
+    </string-array>
+    <string-array name="basic_navigation_settings_summary">
+        <item>Son görevler, Son görevleri aç</item>
+        <item>Masaüstüne geri dön</item>
+        <item>Geri dön</item>
+        <item>Denetim merkezini aç, Denetim merkezi açılır menüsünden seçim yapın</item>
+        <item>Bildirim merkezini aç, Bildirim merkezini aşağı doğru kaydırın</item>
+        <item>Uygulamadı&lt;uygulamayı aç></item>
+        <item>Seç&lt;Etiket></item>
+        <item>Ne diyebilirim ki, Ne diyebilirim ki?</item>
+        <item>Tüm komutları görüntüle</item>
+        <item>Sesli kontrolü duraklat, Sesli kontrolü uyku moduna al</item>
+        <item>Sesli kontrolü uyandır, Sesli kontrolü etkinleştir, Sesli kontrolü başlat</item>
+        <item>Sesli kontrolü kapat, Sesli kontrolü durdur</item>
+        <item>Sayfanın en altına kaydırın</item>
+        <item>Sayfanın başına kaydır</item>
+        <item>Ekran görüntüsü、Ekran görüntüsü、Ekran görüntüsü</item>
+    </string-array>
+    <string-array name="basic_navigation_settings_title">
+        <item>Son görevler</item>
+        <item>Masaüstüne geri dön</item>
+        <item>Geri dön</item>
+        <item>Kontrol merkezini aç</item>
+        <item>Bildirim merkezini aç</item>
+        <item>Aç&lt;Başvuru>（Sadece masaüstü bilgisayarlarda çalışır）</item>
+        <item>Seç&lt;Etiket></item>
+        <item>Mevcut komutları görüntüle</item>
+        <item>Tüm komutları görüntüle</item>
+        <item>Uyku ses kontrolü</item>
+        <item>Sesli uyandırma kontrolü</item>
+        <item>Ses kontrolünden çık</item>
+        <item>Sayfanın altına kaydır（Sayfa）</item>
+        <item>Sayfanın başına kaydır（Sayfa）</item>
+        <item>Ekran görüntüsü</item>
+    </string-array>
+    <string-array name="equipment_operation_settings_summary">
+        <item>Sesi artırın, Sesi artırın, Ses açma düğmesine basın</item>
+        <item>Sesi azaltın, Sesi azaltın, Ses kısma düğmesine basın</item>
+        <item>Güç düğmesine basılı tutun</item>
+        <item>Ekran kilidi,Kilit ekranı</item>
+    </string-array>
+    <string-array name="equipment_operation_settings_title">
+        <item>Ses açma düğmesine basın</item>
+        <item>Ses kısma düğmesine basın</item>
+        <item>Güç düğmesine basılı tutun</item>
+        <item>Ekran kilidi</item>
+    </string-array>
+    <string-array name="gesture_simulation_settings_summary">
+        <item>Yukarı kaydır,Yukarı kaydır</item>
+        <item>Aşağı kaydır,Aşağı kaydır</item>
+        <item>Sola kaydır,Sola kaydır</item>
+        <item>Sağa kaydır,Sağa kaydır</item>
+        <item>Açmak için sıkıştırın,Büyütme hareketi,İki parmak açık</item>
+        <item>Kapatmak için sıkıştırın,Küçülme hareketi,İki parmağı birbirine sıkıştırmak</item>
+        <item>Dokun,Tıkla</item>
+        <item>Çift dokun,İki kez tıkla</item>
+        <item>Uzun bas,Basılı tut</item>
+    </string-array>
+    <string-array name="gesture_simulation_settings_title">
+        <item>Yukarı kaydır</item>
+        <item>Aşağı kaydır</item>
+        <item>Sola kaydır</item>
+        <item>Sağa kaydır</item>
+        <item>Açmak için sıkıştırın</item>
+        <item>Kapatmak için sıkıştırın</item>
+        <item>Dokun</item>
+        <item>Çift dokun</item>
+        <item>Uzun bas</item>
+    </string-array>
+    <string-array name="quit_time">
+        <item>1 dakika boyunca işlem yapılmayacak</item>
+        <item>3 dakika boyunca işlem yapılmayacak.</item>
+        <item>5 dakika boyunca işlem yapılmayacak.</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="sound_key">
+        <item>Kapıyı çal</item>
+        <item>Duman alarmı</item>
+        <item>Bebek ağlaması</item>
+        <item>Su</item>
+        <item>Kedi</item>
+        <item>Köpek</item>
+        <item>Siren alarmı</item>
+        <item>Kapı zili</item>
+        <item>Yangın alarmı</item>
+        <item>Bağırma</item>
+        <item>Cam</item>
+        <item>Korna</item>
+        <item>Kaynar su</item>
+        <item>Öksürük</item>
+    </string-array>
+    <string-array name="sound_source_entries">
+        <item>Mikrofon</item>
+        <item>sistem sesi</item>
+    </string-array>
+    <string-array name="text_control_settings_summary">
+        <item>&lt;Sesli metin girişi></item>
+        <item>Satır sonu</item>
+        <item>Sil</item>
+        <item>Sil&lt;Kelime sayısı>Bireysel</item>
+        <item>Sil&lt;Satır sayısı>Tamam</item>
+        <item>İmleci ileriye doğru hareket ettirin</item>
+        <item>İleriye doğru hareket edin&lt;Sayı>İmleç</item>
+        <item>İmleci geriye doğru hareket ettirin</item>
+        <item>Geriye doğru hareket et&lt;Sayı>İmleç</item>
+        <item>İmleci sona taşı</item>
+        <item>İmleci başlangıç konumuna taşı</item>
+        <item>Seç</item>
+    </string-array>
+    <string-array name="text_control_settings_title">
+        <item>&lt;Sesli metin girişi></item>
+        <item>satır sonu</item>
+        <item>Sil</item>
+        <item>Sil&lt;Kelime sayısı>Bireysel</item>
+        <item>Sil&lt;Satır sayısı>Tamam</item>
+        <item>İmleci ileriye doğru hareket ettirin</item>
+        <item>İleriye doğru hareket edin&lt;Sayı>İmleç</item>
+        <item>İmleci geriye doğru hareket ettirin</item>
+        <item>Geriye doğru hareket et&lt;Sayı>İmleç</item>
+        <item>İmleci sona taşı</item>
+        <item>İmleci başlangıç konumuna taşı</item>
+        <item>Seç</item>
+    </string-array>
+    <string-array name="tts_vendor_entries">
+        <item>Melissa</item>
+        <item>Matt</item>
+        <item>Molly</item>
+        <item>Mia</item>
+    </string-array>
+</resources>

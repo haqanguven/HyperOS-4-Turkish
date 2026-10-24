@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">Etkinleştir</string>
+    <string name="common_google_play_services_enable_text">Google Play hizmetleri %1$s için etkinleştirilmelidir</string>
+    <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştir</string>
+    <string name="common_google_play_services_install_button">Yükle</string>
+    <string name="common_google_play_services_install_text">Google Play hizmetlerini yükleyerek %1$s kullanmaya devam edin</string>
+    <string name="common_google_play_services_install_title">Google Play hizmetlerini yükle</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play hizmetlerinin kullanılabilirliği</string>
+    <string name="common_google_play_services_notification_ticker">Google Play hizmetleri hatası</string>
+    <string name="common_google_play_services_signin_required_text">%1$s Google Play hizmetlerine bağlanamadı. Lütfen Google hesabınıza giriş yapın</string>
+    <string name="common_google_play_services_signin_required_title">Giriş yapılması gerekiyor</string>
+    <string name="common_google_play_services_try_again_text">%1$s Google Play hizmetlerine bağlanamadı. Lütfen tekrar deneyin</string>
+    <string name="common_google_play_services_try_again_title">Lütfen tekrar deneyin</string>
+    <string name="common_google_play_services_unknown_issue">%1$s Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin</string>
+    <string name="common_google_play_services_unsupported_text">%1$s, cihazınız Google Play hizmetlerini desteklemediği için çalıştırılamaz. Lütfen desteklenen bir cihaz kullanın</string>
+    <string name="common_google_play_services_unsupported_title">Cihaz uyumlu değil</string>
+    <string name="common_google_play_services_update_button">Güncelle</string>
+    <string name="common_google_play_services_update_text">Google Play hizmetlerini %1$s kullanacak şekilde güncelleyin</string>
+    <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelle</string>
+    <string name="common_google_play_services_updating_client_title">Google Play hizmetleri güncelleniyor</string>
+    <string name="common_google_play_services_updating_text">Google Play hizmetleri güncellendiğinde %1$s kullanılabilir olacaktır</string>
+    <string name="common_google_play_services_wear_update_text">Google Play hizmetlerini %1$s kullanacak şekilde güncelleyin</string>
+    <string name="common_open_on_phone">Telefonda aç</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pa_covid_items_default">
+        <item>COVID-19</item>
+        <item>Sağlık kodu</item>
+        <item>PCR</item>
+        <item>Yüksek riskli alanlar</item>
+    </string-array>
+    <string-array name="pa_home_week_days">
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+        <item>Pazar</item>
+    </string-array>
+    <string-array name="pa_service_delivery_dislike_option">
+        <item>Başka bir zamanda öner</item>
+        <item>Daha az sıklıkta öner</item>
+        <item>Bu hizmeti önermiyorum</item>
+    </string-array>
+    <string-array name="pa_stock_color_schema_value_array">
+        <item>Kırmızı - yukarı. Yeşil - aşağı</item>
+        <item>Yeşil - yukar. Kırmızı - aşağı</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+</resources>

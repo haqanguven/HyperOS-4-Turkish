@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">Kapat</string>
+    <string name="abc_capital_on">Aç</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Kontrol+</string>
+    <string name="abc_menu_delete_shortcut_label">Sil</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">İşlev+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst karakter+</string>
+    <string name="abc_menu_space_shortcut_label">Boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sembol+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
+    <string name="abc_search_hint">Ara</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="algo_miss">Algoritma dosyası eksik. Kalibrasyon gerçekleştirilemiyor</string>
+    <string name="api_unsupport">"Bu cihaz Camera2 API'sini desteklemiyor"</string>
+    <string name="app_name">Kamera araçları</string>
+    <string name="bokehid_cealibration_fail">TAG değeri boş (Bokehrole)</string>
+    <string name="cali_button">Kalibrasyon</string>
+    <string name="cali_done">Kalibrasyon tamamlandı</string>
+    <string name="cali_fail">Başarısız</string>
+    <string name="cali_failed">Kalibrasyon başarısız. Lütfen tekrar deneyin</string>
+    <string name="cali_failed_distance_too_close">Kalibrasyon yapılamadı. Desenden uzaklaşın ve tekrar deneyin</string>
+    <string name="cali_failed_distance_too_far">Kalibrasyon yapılamadı. Desene yaklaşın ve tekrar deneyin</string>
+    <string name="cali_failed_module_mismatch">Kalibrasyon başarısız. Lütfen lens eşleşme ilişkilerine dikkat edin</string>
+    <string name="cali_going">Kalibrasyon devam ediyor</string>
+    <string name="cali_pass">Başarılı</string>
+    <string name="cali_prompt_info">Noktalı karelerin bu karenin sınırlarına değdiğinden emin olun</string>
+    <string name="cali_title">Kamera kalibrasyonu</string>
+    <string name="calibration_hint_usage">Kamera kalibre edilmemiş. Lütfen kalibrasyonu tamamlayın</string>
+    <string name="camera_capture">Yakala</string>
+    <string name="camera_check_summary">"Test talimatları:
+
+1. Kalibrasyon düğmesine dokunun.
+2. Kameranın kalibre edildiğini belirten bir kalibrasyon geçiş etiketi olacaktır.
+3. Kalibrasyonu döndürülen sonucun istemine göre gerçekleştirin. Kalibrasyon başarılı olduktan sonra geçişe tıklayın.
+4. Verileri kalibre etmek ve değişiklikleri uygulamak için cihazınızı yeniden başlatın"</string>
+    <string name="cameraid_cealibration_fail">TAG değeri boş（masterCameraId veya slaveCameraId</string>
+    <string name="capture_fail">Yakalama başarısız oldu. Lütfen tekrar deneyin</string>
+    <string name="capture_success">Kalibrasyon düğmesine tıklayın</string>
+    <string name="download_data_fail">Sunucudan veri alınamadı</string>
+    <string name="is_burning">Yakılıyor</string>
+    <string name="name_cealibration_fail">TAG değeri boş（path）</string>
+    <string name="need_cealibration_fail">TAG değeri boş（needcalibration）</string>
+    <string name="otp_check_status_fail">Eşleşmiyor</string>
+    <string name="otp_check_status_sucess">Eşleşiyor</string>
+    <string name="otp_item_text1">Modül</string>
+    <string name="otp_item_text2">OTP verileri eşleşiyor mu?</string>
+    <string name="otp_item_text3">Yazma</string>
+    <string name="otp_tips">Yazma işlemi başarılı olduktan sonra etkinleşmesi için telefonun yeniden başlatılması gerekir</string>
+    <string name="otp_title">OTP yazmayı destekleyen modüller:</string>
+    <string name="otp_write_result">Yazma sonuçları:</string>
+    <string name="otp_write_sucess">Başarılı</string>
+    <string name="roleid_cealibration_fail">TAG değeri boş（role.camerId</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="stream_cealibration_fail">TAG değeri boş (streamSize)</string>
+    <string name="write_data_fail">Bin yazılamadı</string>
+    <string name="write_exception">Anormal. Yazma hatası</string>
+</resources>

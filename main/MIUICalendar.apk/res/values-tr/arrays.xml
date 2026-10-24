@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_sync_frequency">
+        <item>Manuel</item>
+        <item>Her %d dakikada bir</item>
+        <item>Her saat</item>
+        <item>Her %d saatte bir</item>
+        <item>Her %d saatte bir</item>
+    </string-array>
+    <string-array name="aqi_level_simple_desc">
+        <item>Mükemmel</item>
+        <item>İyi</item>
+        <item>Hafif</item>
+        <item>Ilımlı</item>
+        <item>Şiddetli</item>
+        <item>Ciddi</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>Kova</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Koç</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>Yengeç</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Oğlak</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Yalnızca bu etkinlik</item>
+        <item>Serinin tüm etkinlikleri</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Yalnızca bu defa</item>
+        <item>Tekrarlanan hatırlatıcıyı kapat</item>
+    </string-array>
+    <string-array name="constellation_array">
+        <item>Hiçbiri</item>
+        <item>Koç</item>
+        <item>Boğa</item>
+        <item>İkizler</item>
+        <item>Yengeç</item>
+        <item>Aslan</item>
+        <item>Başak</item>
+        <item>Terazi</item>
+        <item>Akrep</item>
+        <item>Yay</item>
+        <item>Oğlak</item>
+        <item>Kova</item>
+        <item>Balık</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>İleri</item>
+        <item>Geri</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Yalnızca bu etkinlik</item>
+        <item>Bu ve gelecekteki etkinlikler</item>
+        <item>Tüm etkinlikler</item>
+    </string-array>
+    <string-array name="di_zhi">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="edit_event_dislike">
+        <item>Hiçbir etkinlik türü oluşturma</item>
+        <item>Doldurmayacak kadar tembel bir sürü ayar var</item>
+        <item>Bazı kurulum bilgileri belirlenemiyor</item>
+        <item>Sadece bir göz at</item>
+        <item>Tekrar sorma</item>
+    </string-array>
+    <string-array name="entryvalues_settings_debug">
+        <item>Hayır</item>
+        <item>Günlükleri dışa aktar ve gönder</item>
+        <item>Dosya yöneticisi için günlük oluştur</item>
+        <item>Cihaz kimliğini görüntüle</item>
+        <item>Sunucu yapılandırmasını şimdi güncelle</item>
+    </string-array>
+    <string-array name="fortune_gender">
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+    <string-array name="fortune_love">
+        <item>Aşık</item>
+        <item>Yalnız</item>
+    </string-array>
+    <string-array name="fortune_random_name">
+        <item>Hüseyin</item>
+        <item>Barış</item>
+        <item>Gökhan</item>
+        <item>Hakan</item>
+        <item>Gamze</item>
+        <item>Gizem</item>
+        <item>Şengül</item>
+        <item>Ayşe</item>
+        <item>Rüzgar</item>
+        <item>Hira</item>
+        <item>Duru</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>İkizler</item>
+    </string-array>
+    <string-array name="jia_zi">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>Aslan</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>Terazi</item>
+    </string-array>
+    <string-array name="locale_calendar_array">
+        <item>Hiçbiri</item>
+        <item>Geleneksel Çin takvimi</item>
+        <item>Hicri takvim</item>
+        <item>İbrani takvimi</item>
+        <item>Japon takvimi</item>
+        <item>Fars takvimi</item>
+        <item>Hint takvimi</item>
+        <item>Budist takvimi</item>
+    </string-array>
+    <string-array name="months_English_array">
+        <item>Ocak</item>
+        <item>Şubat</item>
+        <item>Mart</item>
+        <item>Nisan</item>
+        <item>Mayıs</item>
+        <item>Haziran</item>
+        <item>Temmuz</item>
+        <item>Ağustos</item>
+        <item>Eylül</item>
+        <item>Ekim</item>
+        <item>Kasım</item>
+        <item>Aralık</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Yalnızca bu defa</item>
+        <item>Tekrarlanan hatırlatıcı ayarla</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>Balık</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Kapalı</item>
+        <item>Tüm etkinlikler için</item>
+        <item>Zamana duyarlı etkinlikler için</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Her zaman</item>
+        <item>Yalnızca zil sesi susturulduğunda</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Varsayılan</item>
+        <item>Cumartesi</item>
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+        <item>20.</item>
+        <item>21.</item>
+        <item>22.</item>
+        <item>23.</item>
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+        <item>30.</item>
+        <item>31.</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Asla</item>
+        <item>Zaman</item>
+        <item>Bitiş</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Ocak</item>
+        <item>Şubat</item>
+        <item>Mart</item>
+        <item>Nisan</item>
+        <item>Mayıs</item>
+        <item>Haziran</item>
+        <item>Temmuz</item>
+        <item>Ağustos</item>
+        <item>Eylül</item>
+        <item>Ekim</item>
+        <item>Kasım</item>
+        <item>Aralık</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Pazartesi - Cuma</item>
+        <item>Haftasonu</item>
+        <item>Tüm hafta</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+        <item>Pazar</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Asla</item>
+        <item>Aylık</item>
+        <item>Yıllık</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>İlk pazartesi</item>
+        <item>İlk salı</item>
+        <item>İlk çarşamba</item>
+        <item>İlk perşembe</item>
+        <item>İlk cuma</item>
+        <item>İlk cumartesi</item>
+        <item>İlk pazar</item>
+        <item>İkinci pazartesi</item>
+        <item>İkinci salı</item>
+        <item>İkinci çarşamba</item>
+        <item>İkinci perşembe</item>
+        <item>İkinci cuma</item>
+        <item>İkinci cumartesi</item>
+        <item>İkinci pazar</item>
+        <item>Üçüncü pazartesi</item>
+        <item>Üçüncü salı</item>
+        <item>Üçüncü çarşamba</item>
+        <item>Üçüncü perşembe</item>
+        <item>Üçüncü cuma</item>
+        <item>Üçüncü cumartesi</item>
+        <item>Üçüncü pazar</item>
+        <item>Dördüncü pazartesi</item>
+        <item>Dördüncü salı</item>
+        <item>Dördüncü çarşamba</item>
+        <item>Dördüncü perşembe</item>
+        <item>Dördüncü cuma</item>
+        <item>Dördüncü cumartesi</item>
+        <item>Dördüncü pazar</item>
+        <item>sonson pazartesi</item>
+        <item>Son salı</item>
+        <item>Son çarşamba</item>
+        <item>Son perşembe</item>
+        <item>Son cuma</item>
+        <item>Son cumartesi</item>
+        <item>Son pazar</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Yanıt yok</item>
+        <item>Evet</item>
+        <item>Belki</item>
+        <item>Hayır</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Cevap verme</item>
+        <item>Kabul et</item>
+        <item>Daha sonra karar ver</item>
+        <item>Reddet</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>Yay</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>Akrep</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>Boğa</item>
+    </string-array>
+    <string-array name="tian_gan">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="timezone_labels_v3">
+        <item>Marşal Adaları</item>
+        <item>Midway Adası</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pasifik Saati</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Dağ Saati</item>
+        <item>Orta Amerika</item>
+        <item>Merkez Saat</item>
+        <item>Meksiko</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Doğu Saati</item>
+        <item>Venezüela</item>
+        <item>Atlantik Saati (Barbados)</item>
+        <item>Atlantik Saati (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brezilya</item>
+        <item>Buenos Aires</item>
+        <item>Grönland</item>
+        <item>Montevideo</item>
+        <item>Orta-Atlantik</item>
+        <item>Azores</item>
+        <item>Yeşil Burun Adaları</item>
+        <item>Kazablanka</item>
+        <item>Londra</item>
+        <item>Dublin</item>
+        <item>Amsterdam</item>
+        <item>Berlin</item>
+        <item>Belgrad</item>
+        <item>Brüksel</item>
+        <item>Saraybosna</item>
+        <item>Windhoek</item>
+        <item>B. Afrika Saati</item>
+        <item>Umman</item>
+        <item>Atina</item>
+        <item>İstanbul</item>
+        <item>Beyrut</item>
+        <item>Kahire</item>
+        <item>Helsinki</item>
+        <item>Kudüs</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bağdat</item>
+        <item>Moskova</item>
+        <item>Kuveyt</item>
+        <item>Nairobi</item>
+        <item>Tahran</item>
+        <item>Bakü</item>
+        <item>Tiflis</item>
+        <item>Erivan</item>
+        <item>Dubai</item>
+        <item>Kabil</item>
+        <item>Karaçi</item>
+        <item>Oral</item>
+        <item>Ekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Pekin</item>
+        <item>Chongqing</item>
+        <item>Hong Kong</item>
+        <item>Makao</item>
+        <item>Singapur</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seul</item>
+        <item>Tokyo</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sidney</item>
+        <item>Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>Başak</item>
+    </string-array>
+    <string-array name="week_array">
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>PAZ</item>
+        <item>PZT</item>
+        <item>SAL</item>
+        <item>ÇAR</item>
+        <item>PER</item>
+        <item>CUM</item>
+        <item>CMT</item>
+    </string-array>
+    <string-array name="week_header_name_phone_landscape">
+        <item>PAZ</item>
+        <item>PZT</item>
+        <item>SAL</item>
+        <item>ÇAR</item>
+        <item>PER</item>
+        <item>CUM</item>
+        <item>CMT</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Şeffaf</item>
+        <item>Beyaz</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>P</item>
+        <item>P</item>
+        <item>S</item>
+        <item>Ç</item>
+        <item>P</item>
+        <item>C</item>
+        <item>C</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_global">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_global">
+        <item>Gün</item>
+        <item>Bir</item>
+        <item>İki</item>
+        <item>Üç</item>
+        <item>Dört</item>
+        <item>Beş</item>
+        <item>Altı</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_global_en">
+        <item>P</item>
+        <item>P</item>
+        <item>S</item>
+        <item>Ç</item>
+        <item>P</item>
+        <item>C</item>
+        <item>C</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_new">
+        <item>Bir</item>
+        <item>İki</item>
+        <item>Üç</item>
+        <item>Dört</item>
+        <item>Beş</item>
+        <item>Altı</item>
+        <item>Gün</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_new_en">
+        <item>P</item>
+        <item>S</item>
+        <item>Ç</item>
+        <item>P</item>
+        <item>C</item>
+        <item>C</item>
+        <item>P</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_new_other">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_other">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apk_download_num_unit">
+        <item>İndirilenler: %.1f</item>
+        <item>İndirilenler: %.1f milyon</item>
+        <item>İndirilenler: %.1f milyar</item>
+    </string-array>
+    <string-array name="aqi_detail_title">
+        <item>İyi</item>
+        <item>Orta</item>
+        <item>Hassas gruplar için sağlıksız</item>
+        <item>Sağlıksız</item>
+        <item>Çok sağlıksız</item>
+        <item>Zararlı</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>HKİ %1$s</item>
+        <item>HKİ %1$s</item>
+        <item>HKİ %1$s</item>
+        <item>HKİ %1$s</item>
+        <item>HKİ %1$s</item>
+        <item>HKİ %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>İyi</item>
+        <item>Tatmin edici</item>
+        <item>Hafif kirli</item>
+        <item>Kötü</item>
+        <item>Çok kötü</item>
+        <item>Şiddetli</item>
+        <item>Endeksin üzerinde</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;2. kuvvet</item>
+        <item>&lt;6.0km/s</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
+    <string-array name="dislike_alert_dialog_selectitems">
+        <item>İlgilenmiyorum</item>
+        <item>İçerik kalitesi düşük</item>
+    </string-array>
+    <string-array name="hot_city">
+        <item>İzmir</item>
+        <item>İstanbul</item>
+        <item>Rize</item>
+        <item>Trabzon</item>
+        <item>Antalya</item>
+        <item>Ankara</item>
+        <item>Samsun</item>
+        <item>Bursa</item>
+        <item>Manisa</item>
+        <item>Aydın</item>
+        <item>Sakarya</item>
+        <item>Muğla</item>
+        <item>Sivas</item>
+        <item>Çanakkale</item>
+        <item>Isparta</item>
+        <item>Giresun</item>
+        <item>Artvin</item>
+        <item>Nevşehir</item>
+        <item>Uşak</item>
+        <item>Denizli</item>
+        <item>Balıkesir</item>
+        <item>Hatay</item>
+    </string-array>
+    <string-array name="minute_rain_array">
+        <item>Ağır</item>
+        <item>Orta</item>
+        <item>Hafif</item>
+    </string-array>
+    <string-array name="realtime_humidity_status">
+        <item>Kuru</item>
+        <item>Rahat</item>
+        <item>Nemli</item>
+    </string-array>
+    <string-array name="realtime_pressure_status">
+        <item>Yüksek</item>
+        <item>Orta</item>
+        <item>Düşük</item>
+    </string-array>
+    <string-array name="realtime_temperature_status">
+        <item>Soğuk</item>
+        <item>Harika</item>
+        <item>Rahat</item>
+        <item>Ilık</item>
+        <item>Sıcak</item>
+    </string-array>
+    <string-array name="realtime_uv_level">
+        <item>Zayıf</item>
+        <item>Orta</item>
+        <item>Güçlü</item>
+        <item>Çok güçlü</item>
+        <item>Şiddetli</item>
+    </string-array>
+    <string-array name="typhoon_uv_level">
+        <item>Tropikal depresyon</item>
+        <item>Tropikal fırtına</item>
+        <item>Şiddetli tropikal fırtına</item>
+        <item>Tayfun</item>
+        <item>Şiddetli tayfun</item>
+        <item>Süper tayfun</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Açık</item>
+        <item>Bulutlu</item>
+        <item>Kapalı</item>
+        <item>Sisli</item>
+        <item>Şiddetli yağmur fırtınası</item>
+        <item>Sağanak</item>
+        <item>Yağmur fırtınası</item>
+        <item>Gök gürültülü sağanak</item>
+        <item>Yağmurlu</item>
+        <item>Yoğun sağanak</item>
+        <item>Yağmurlu</item>
+        <item>Hafif yağmur</item>
+        <item>Karla karışık yağmur</item>
+        <item>Kar fırtınası</item>
+        <item>Karlı</item>
+        <item>Yoğun karlı</item>
+        <item>Karlı</item>
+        <item>Hafif karlı</item>
+        <item>Şiddetli kum fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Kum</item>
+        <item>Rüzgarlı</item>
+        <item>Dolu</item>
+        <item>Toz</item>
+        <item>Sisli</item>
+        <item>Donan yağmur</item>
+        <item></item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Kuzey</item>
+        <item>Kuzeydoğu</item>
+        <item>Doğu</item>
+        <item>Güneydoğu</item>
+        <item>Güney</item>
+        <item>Güneybatı</item>
+        <item>Batı</item>
+        <item>Kuzeybatı</item>
+    </string-array>
+    <string-array name="wind_direction_simple">
+        <item>K</item>
+        <item>KD</item>
+        <item>D</item>
+        <item>GD</item>
+        <item>G</item>
+        <item>GB</item>
+        <item>B</item>
+        <item>KB</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Beaufort ölçeği</item>
+        <item>Kilometre/saat (km/s)</item>
+        <item>Metre/saniye (m/s)</item>
+        <item>Mil/saat (mph)</item>
+        <item>Knot (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>%1$s. kuvvet</item>
+        <item>%1$s km/s</item>
+        <item>%1$s m/s</item>
+        <item>%1$s mph</item>
+        <item>%1$s kn</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Şifreler</string>
+    <string name="uninstall_dialog_des">Şifreler, şifrelerinizi saklamanıza, yönetmenize ve oturum açtığınızda hızlıca doldurmanıza yardımcı olan bir sistem uygulamasıdır. Bu uygulamayı kaldırırsanız şifre otomatik doldurma düzgün çalışmaz</string>
+    <string name="uninstall_dialog_title">Şifreleri kaldırmak istiyor musunuz?</string>
+</resources>

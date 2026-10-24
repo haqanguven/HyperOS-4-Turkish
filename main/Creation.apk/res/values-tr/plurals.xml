@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d saat önce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d saat içinde</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">%d dakika içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
+    </plurals>
+    <plurals name="ai_image_count_talkback">
+        <item quantity="other">Görüntü %1$s</item>
+        <item quantity="one">Görüntü %1$s</item>
+    </plurals>
+    <plurals name="alert_message_delete">
+        <item quantity="other">%d kanvas şimdi silinsin mi?</item>
+        <item quantity="one">%d kanvas şimdi silinsin mi?</item>
+    </plurals>
+    <plurals name="cloud_state_synced_items">
+        <item quantity="other">%1$s öge senkronize edildi</item>
+        <item quantity="one">%1$s öge senkronize edildi</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_items">
+        <item quantity="other">%1$s öge senkronize edilmedi</item>
+        <item quantity="one">%1$s öge senkronize edilmedi</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_mm">
+        <item quantity="other">Yükseklik %d milimetreyi aşamaz. Tekrar girin</item>
+        <item quantity="one">Yükseklik %d milimetreyi aşamaz. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_px">
+        <item quantity="other">Yükseklik %d pikseli aşamaz. Tekrar girin</item>
+        <item quantity="one">Yükseklik %d pikseli aşamaz. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_toast_mm">
+        <item quantity="other">Yükseklik sınırı %d milimetre aşıldı. Tekrar girin</item>
+        <item quantity="one">Yükseklik sınırı %d milimetre aşıldı. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_toast_px">
+        <item quantity="other">Yükseklik sınırı %d piksel aşıldı. Tekrar girin</item>
+        <item quantity="one">Yükseklik sınırı %d piksel aşıldı. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_mm">
+        <item quantity="other">Yükseklik %d milimetreden düşük olamaz. Tekrar girin</item>
+        <item quantity="one">Yükseklik %d milimetreden düşük olamaz. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_px">
+        <item quantity="other">Yükseklik %d pikselden düşük olamaz. Tekrar girin</item>
+        <item quantity="one">Yükseklik %d pikselden düşük olamaz. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_toast_mm">
+        <item quantity="other">Yüksekliği en az %d milimetre artırın</item>
+        <item quantity="one">Yüksekliği en az %d milimetre artırın</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_toast_px">
+        <item quantity="other">Yüksekliği en az %d piksel artırın</item>
+        <item quantity="one">Yüksekliği en az %d piksel artırın</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_mm">
+        <item quantity="other">Genişlik %d milimetreyi aşamaz. Tekrar girin</item>
+        <item quantity="one">Genişlik %d milimetreyi aşamaz. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_px">
+        <item quantity="other">Genişlik %d pikseli aşamaz. Tekrar girin</item>
+        <item quantity="one">Genişlik %d pikseli aşamaz. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_toast_mm">
+        <item quantity="other">Genişlik sınırı %d milimetre aşıldı. Tekrar girin</item>
+        <item quantity="one">Genişlik sınırı %d milimetre aşıldı. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_toast_px">
+        <item quantity="other">Genişlik sınırı %d piksel aşıldı. Tekrar girin</item>
+        <item quantity="one">Genişlik sınırı %d piksel aşıldı. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_mm">
+        <item quantity="other">Genişlik %d milimetreden düşük olamaz. Tekrar girin</item>
+        <item quantity="one">Genişlik %d milimetreden düşük olamaz. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_px">
+        <item quantity="other">Genişlik %d pikselden düşük olamaz. Tekrar girin</item>
+        <item quantity="one">Genişlik %d pikselden düşük olamaz. Tekrar girin</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_toast_mm">
+        <item quantity="other">Genişliği en az %d milimetre artırın</item>
+        <item quantity="one">Genişliği en az %d milimetre artırın</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_toast_px">
+        <item quantity="other">Genişliği en az %d piksel artırın</item>
+        <item quantity="one">Genişliği en az %d piksel artırın</item>
+    </plurals>
+    <plurals name="creation_terms">
+        <item quantity="other">%1$s öğe</item>
+        <item quantity="one">%1$s öğe</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s klasör</item>
+        <item quantity="one">%1$s klasör</item>
+    </plurals>
+    <plurals name="import_pdf_num_limit">
+        <item quantity="other">En fazla %d sayfayı tek bir dosyaya aktarabilirsiniz. Kalan sayfalar dahil edilmedi</item>
+        <item quantity="one">En fazla %d sayfayı tek bir dosyaya aktarabilirsiniz. Kalan sayfalar dahil edilmedi</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 saat içerisinde</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">1 dakika içerisinde</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">" %d dakika önce"</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+</resources>

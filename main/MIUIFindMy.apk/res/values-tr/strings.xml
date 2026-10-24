@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cihazı bul</string>
+    <string name="uninstall_dialog_des">Cihazı bul uygulaması bir sistem uygulamasıdır. Bu uygulamayı kaldırdıktan sonra kayıp cihazları bulamazsınız</string>
+    <string name="uninstall_dialog_title">Cihazı bul uygulaması kaldırılsın mı?</string>
+</resources>

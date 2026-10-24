@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passport_account_user_gender_name">
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Cihazınızı bulmak ve kayıp moduna geçmek içindir</item>
+        <item>İnternete bağlı değilken bu cihazı bulmak içindir</item>
+        <item>İnternete bağlı değilken bu cihazı bulmak için telefon numarasına erişmek içindir</item>
+        <item>Kayıp modu açıkken cihazı bulan herkesin sizinle iletişime geçmesine yardımcı olmak içindir</item>
+        <item>Zil çalma gibi komutları tetiklemek için aksesuarları bulmak için kullanılır</item>
+    </string-array>
+</resources>
