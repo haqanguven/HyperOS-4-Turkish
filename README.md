@@ -1,0 +1,2 @@
+# HyperOSProTR
+Turkish Lang
