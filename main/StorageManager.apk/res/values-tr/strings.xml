@@ -487,7 +487,7 @@ Seçim: Örnekleme hızı"</string>
     <string name="int_in_range_type_description_between">Belirtilen aralıkta [%1$d, %2$d], %3$d adımlı bir tamsayı</string>
     <string name="int_in_range_type_description_from">"%1$d'den büyük veya eşit bir tamsayı, %2$d adımlı"</string>
     <string name="int_in_range_type_description_to">"%1$d'den küçük veya eşit bir tamsayı, %2$d adımlı"</string>
-	<string name="item_view_role_description">Sekme</string>
+    <string name="item_view_role_description">Sekme</string>
     <string name="keep_screen_on">Uyanık kal</string>
     <string name="keep_screen_on_summary">Şarj edilirken ekran hiçbir zaman uykuya geçmez</string>
     <string name="keywords_alarms_and_reminders">Program, alarm, hatırlatma, saat</string>
@@ -749,6 +749,7 @@ Seçim: Örnekleme hızı"</string>
     <string name="storage_menu_free">Yer aç</string>
     <string name="strict_mode">Yüksek düzey modu etkin</string>
     <string name="strict_mode_summary">Uygulama ana işlem parçasında uzun işlem yapınca ekranı yakıp söndür</string>
+    <string name="subscription_id_type_description">Geçerli bir abonelik kimliği</string>
     <string name="sud_back_button_label">Geri</string>
     <string name="sud_card_view_check_mark_icon_label">Kontrol edildi</string>
     <string name="sud_default_device_name">Cihaz</string>

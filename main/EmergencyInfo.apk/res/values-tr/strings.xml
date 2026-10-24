@@ -165,7 +165,7 @@ Bu izin verilmezse bu uygulama tarafından programlanmış mevcut alarmlar ve za
     <string name="bluetooth_battery_level_untethered">Sol pil %1$s. Sağ pil %2$s</string>
     <string name="bluetooth_battery_level_untethered_case">Kasa: %1$s pil</string>
     <string name="bluetooth_battery_level_untethered_lea_support">Bağlı (Ses paylaşımını destekler)</string>
-	<string name="bluetooth_battery_level_untethered_left">Sol: %1$s, Sağ: %2$s pil</string>
+    <string name="bluetooth_battery_level_untethered_left">Sol: %1$s, Sağ: %2$s pil</string>
     <string name="bluetooth_battery_level_untethered_left_case">Sol: %1$s, Kasa: %2$s pil</string>
     <string name="bluetooth_battery_level_untethered_left_case_right">Sol: %1$s, Kasa: %2$s, Sağ: %3$s pil</string>
     <string name="bluetooth_battery_level_untethered_left_lea_support">Bağlı (Ses paylaşımını destekler) Sol: %1$s pil</string>
@@ -711,7 +711,7 @@ Herkes bu bilgiyi kilit ekranınızdan okuyabilir ve telefonunuzun kilidini açm
     <string name="select_webview_provider_title">İnternet görünümü uygulaması</string>
     <string name="select_webview_provider_toast_text">Bu seçenek artık geçerli değil. Yeniden deneyin</string>
     <string name="settings_label">Ayarlar</string>
-<string name="settings_suggestion_body">İlk müdahale ekiplerinin bilgilerinizi görmesine izin verin</string>
+    <string name="settings_suggestion_body">İlk müdahale ekiplerinin bilgilerinizi görmesine izin verin</string>
     <string name="settings_suggestion_title">Acil durum bilgilerini ekleyin</string>
     <string name="settingslib_action_label_pause">Duraklat</string>
     <string name="settingslib_action_label_resume">Özgeçmiş</string>
@@ -788,6 +788,7 @@ Herkes bu bilgiyi kilit ekranınızdan okuyabilir ve telefonunuzun kilidini açm
     <string name="sud_setup_progress_indicator_icon_description">İlerleme göstergesini ayarla</string>
     <string name="sud_setup_progress_percentage">%%%1$s</string>
     <string name="sud_skip_button_label">Atla</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="system_update_settings_list_item_title">Sistem güncellemeleri</string>
     <string name="tab_title_contacts">Kişiler</string>
     <string name="tab_title_info">Bilgi</string>

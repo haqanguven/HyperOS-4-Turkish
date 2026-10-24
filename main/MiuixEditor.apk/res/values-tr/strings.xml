@@ -2,17 +2,9 @@
 <resources>
     <string name="add_frequent_phrases">Sık kullanılan ifadeler ekleyin</string>
     <string name="ai_content_description">Yapay zeka yazma</string>
-    <string name="ai_recognition">Yapay zeka</string>
     <string name="app_name">Metin düzenleyici</string>
     <string name="ask_hyper_xiaoai">Sor</string>
     <string name="call">Ara</string>
-    <string name="call_notification_answer_action">Yanıtla</string>
-    <string name="call_notification_answer_video_action">Video</string>
-    <string name="call_notification_decline_action">Reddet</string>
-    <string name="call_notification_hang_up_action">Kapat</string>
-    <string name="call_notification_incoming_text">Gelen arama</string>
-    <string name="call_notification_ongoing_text">Devam eden arama</string>
-    <string name="call_notification_screening_text">Gelen aramayı tarama</string>
     <string name="edit_frequent_phrases">Sık kullanılan ifadeleri düzenleyin</string>
     <string name="floating_toolbar_close_overflow_description">Taşmayı kapat</string>
     <string name="floating_toolbar_open_overflow_description">Daha fazla</string>

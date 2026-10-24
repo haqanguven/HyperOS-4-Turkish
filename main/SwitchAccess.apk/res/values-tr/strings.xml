@@ -43,6 +43,7 @@
     <string name="action_key_title_recommended">%1$s (Önerilir)</string>
     <string name="action_name_click">Seç</string>
     <string name="action_name_click_point_scan_enabled">Seç (Nokta taraması)</string>
+    <string name="action_name_clickable_span">Bağlantı</string>
     <string name="action_name_collapse">Daralt</string>
     <string name="action_name_copy">Kopyala</string>
     <string name="action_name_copy_all_text">Tümünü kopyala</string>

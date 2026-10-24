@@ -878,6 +878,7 @@ cihazınızı katlayın"</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
     <string name="voice_assist">Mi yapay zeka</string>
+    <string name="wallpaper_group_ai_companion_title">Akıllı yol arkadaşı</string>
     <string name="wallpaper_floral_arrangement_title">Çiçek düzenlemesi</string>
     <string name="wallpaper_geometrically_irregular_title">Soyut geometri</string>
     <string name="wallpaper_gradient_title">Gradyan</string>
@@ -907,6 +908,8 @@ cihazınızı katlayın"</string>
     <string name="wallpaper_group_shadow_geometry_title">Gölgelerin geometrisi</string>
     <string name="wallpaper_neon_title">Neon</string>
     <string name="wallpaper_overlapping_space_title">Şekil ve gölge</string>
+    <string name="wallpaper_group_animation_effect_title">Dinamik efektler</string>
+    <string name="wallpaper_group_butterfly_title">Kelebek</string>
     <string name="waterdrop_preview">Damlacıklar</string>
     <string name="wifi_5ghz_sap_start_failed_by_region">5GHz wifi bandına bağlıyken bağlantı paylaşımı kullanılamaz</string>
     <string name="wifi_assistant_wifi_no_internet">Bu wifi ağının internete erişimi yok</string>
@@ -941,6 +944,7 @@ cihazınızı katlayın"</string>
     <string name="xiaomi_mix_2s">Mi MIX 2S</string>
     <string name="xiaomi_mix_3">Mi MIX 3</string>
     <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
+    <string name="wallpaper_group_creatures_title">Doğanın harikaları</string>
     <string name="xiaomi_note_3">Mi Note 3</string>
     <string name="xiaomi_phone">Xiaomi</string>
     <string name="xiaomi_poco_f1">POCO F1</string>
@@ -971,6 +975,7 @@ cihazınızı katlayın"</string>
     <string name="flip_out_screen_on_proximity_sensor_summary_text">"Bu bildirimi nasıl kaldırabileceğinizi burada bulabilirsiniz:
 %1$s. Kameranın etrafındaki alandaki engelleri kaldırın.
 %2$s. Bu işe yaramazsa cep modunu kapatmak için sesi açma düğmesine basın"</string>
+    <string name="fold_outer_app_blocked">Daha iyi bir deneyim için iç ekrandan devam edin</string>
     <string name="global_help">Cihaz bulunamadı</string>
     <string name="global_imac">"iMac'im"</string>
     <string name="global_ipad">"iPad'im"</string>
@@ -995,6 +1000,10 @@ cihazınızı katlayın"</string>
     <string name="mi_pad_6_pro">Xiaomi Pad 6 Pro</string>
     <string name="motorola">Motorola</string>
     <string name="motorola_phone">Motorola telefon</string>
+    <string name="night_wakeup_notification_exit">Kapat</string>
+    <string name="night_wakeup_notification_message">Gözlerinizi korumak için parlaklık ayarlanıyor</string>
+    <string name="night_wakeup_notification_summary">Açılıyor</string>
+    <string name="night_wakeup_notification_title">Gece göz konforu açık</string>
     <string name="nio">NIO</string>
     <string name="nio_phone">NIO telefon</string>
     <string name="password_unlock">Ekran kilidi</string>

@@ -232,6 +232,7 @@
     <string name="mtb_tool_at_command_set_time_error">Hata. Boşluk Süresi 0 olamaz</string>
     <string name="mtb_tool_at_command_set_total_nums">Başarılı. Komut toplam sayısında:</string>
     <string name="mtb_tool_audio_receiver_switch">Ses alıcı anahtarı</string>
+    <string name="mtb_tool_auto_grab_log">Günlüğü otomatik yakala</string>
     <string name="mtb_tool_backup_file_full_path">Yedekleme dosyası tam yolu</string>
     <string name="mtb_tool_backup_path_fail">Yedekleme başlatma yolu başarısız oldu</string>
     <string name="mtb_tool_backuping">Yedekleniyor</string>

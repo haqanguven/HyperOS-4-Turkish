@@ -29,6 +29,18 @@
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">%d dakika önce</item>
     </plurals>
+    <plurals name="ai_call_minute_unit">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+    </plurals>
+    <plurals name="ai_call_second_unit">
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">%d saniye</item>
+    </plurals>
+    <plurals name="ai_call_time_format">
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">%d saniye</item>
+    </plurals>
     <plurals name="fivega_info">
         <item quantity="other">%d saniye bekleyin ve tekrar deneyin</item>
         <item quantity="one">%d saniye bekleyin ve tekrar deneyin</item>
@@ -55,6 +67,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d öğe seçildi</item>
         <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
     </plurals>
     <plurals name="nrca_info">
         <item quantity="other">Değişiklikler %d saniye içinde uygulanacak</item>
