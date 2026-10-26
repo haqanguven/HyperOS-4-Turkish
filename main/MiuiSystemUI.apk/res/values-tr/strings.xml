@@ -344,8 +344,6 @@ Ayarı görüntüle"</string>
     <string name="auto_data_switch_dialog_positive_button">Evet</string>
     <string name="auto_data_switch_disable_message">Mobil veriler müsaitlik durumuna göre otomatik olarak değiştirilmeyecek</string>
     <string name="auto_data_switch_disable_title">"%s'e geri dönülsün mü?"</string>
-    <string name="auto_saver_text">Pilin bitme olasılığı yüksek olduğunda açın</string>
-    <string name="auto_saver_title">Pil tasarrufunu programlamak için dokunun</string>
     <string name="av_blur">Bulanıklaştırma</string>
     <string name="av_camera_blur_full">Yoğun bulanıklık</string>
     <string name="av_camera_blur_light">Hafif bulanıklık</string>
@@ -368,17 +366,9 @@ Ayarı görüntüle"</string>
     <string name="backlinks_include_link">Bağlantı ekle</string>
     <string name="battery">Pil</string>
     <string name="battery_detail_switch_title">Pil tasarrufu</string>
-    <string name="battery_low_description">%s piliniz kaldı. Pil tasarrufu koyu temayı açar, arka plan etkinliğini kısıtlar ve bildirimleri geciktirir</string>
-    <string name="battery_low_intro">Pil tasarrufu koyu temayı açar, arka plan etkinliğini kısıtlar ve bildirimleri geciktirir</string>
-    <string name="battery_low_title">Pil tasarrufu açılsın mı?</string>
     <string name="battery_meter_percent_sign">%</string>
-    <string name="battery_saver_confirmation_ok">Aç</string>
-    <string name="battery_saver_confirmation_title">Pil tasarrufu açılsın mı?</string>
-    <string name="battery_saver_confirmation_title_generic">Pil tasarrufu hakkında</string>
-    <string name="battery_saver_dismiss_action">Hayır</string>
-    <string name="battery_saver_start_action">Aç</string>
     <string name="battery_state_unknown_notification_text">Daha fazla bilgi için dokunun</string>
-    <string name="battery_state_unknown_notification_title">Pil ölçeriniz okumada sorunlu</string>
+    <string name="battery_state_unknown_notification_title">Pil göstergesi okunurken sorun oluştu</string>
     <string name="biometric_dialog_cancel_authentication">Kimlik doğrulamayı iptal et</string>
     <string name="biometric_dialog_confirm">Onayla</string>
     <string name="biometric_dialog_content_view_more_options_button">Daha fazla seçenek</string>
@@ -874,6 +864,41 @@ Güç düğmesiyle kapatın"</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="font_scale_percentage">%% %1$d</string>
     <string name="font_scaling_dialog_title">Yazı boyutu</string>
     <string name="font_scaling_larger">Büyüt</string>
@@ -1034,17 +1059,6 @@ Güç düğmesiyle kapatın"</string>
     <string name="heavenly_stems_wu">5</string>
     <string name="heavenly_stems_xin">8</string>
     <string name="heavenly_stems_yi">2</string>
-    <string name="help_uri_battery_saver_learn_more_link_target" />
-    <string name="high_temp_alarm_help_care_steps">Bakım adımlarına bakın</string>
-    <string name="high_temp_alarm_notify_message">Bu cihazı şarj ederken bir sorun var. Güç adaptörünü çıkarın ve kablo ısınabileceğinden dikkatli olun</string>
-    <string name="high_temp_alarm_title">Şarj cihazının fişini çek</string>
-    <string name="high_temp_dialog_help_text">Bakım adımlarına bakın</string>
-    <string name="high_temp_dialog_message">"Telefonunuz otomatik olarak soğumaya çalışacaktır. Telefonunuzu kullanmaya devam edebilirsiniz ancak daha yavaş çalışabilir.
-
-Telefonunuz soğuduktan sonra normal şekilde çalışır"</string>
-    <string name="high_temp_notif_message">"Telefon soğurken bazı özellikler sınırlıdır.
-Daha fazla bilgi için dokunun"</string>
-    <string name="high_temp_title">Telefon ısınıyor</string>
     <string name="home_controls_dream_description">Ev kontrollerinize ekran koruyucu olarak hızla erişin</string>
     <string name="home_controls_dream_label">Ev kontrolleri</string>
     <string name="home_edu_notification_content">Üç parmağınızla yukarı kaydırın. Daha fazla hareket öğrenmek için dokunun</string>
@@ -1062,8 +1076,6 @@ Daha fazla bilgi için dokunun"</string>
     <string name="ime_security_warning_global">Giriş yöntemleri, şifre ve kredi kartı numaraları gibi kişisel veriler dahil yazdığınız tüm metni toplayabilir. %1$s kullanılsın mı?</string>
     <string name="ime_security_warning_title_global">Klavye açılıyor</string>
     <string name="in_progress">Devam ediyor</string>
-    <string name="inattentive_sleep_warning_message">Cihaz yakında kapanacak. Açık tutmak için basın</string>
-    <string name="inattentive_sleep_warning_title">Bekleme</string>
     <string name="indeterminate">Kısmen kontrol edildi</string>
     <string name="inline_bridged_open_associated_device_settings">%1$s ayarlarını aç</string>
     <string name="inline_done_button">Bitti</string>
@@ -1099,8 +1111,6 @@ Daha fazla bilgi için dokunun"</string>
     <string name="instant_apps_message">Hazır uygulamalar yükleme gerektirmez</string>
     <string name="instant_apps_message_with_help">Uygulama yüklenmeden açıldı. Daha fazlasını öğrenmek için dokunun</string>
     <string name="instant_apps_title">%1$s çalışıyor</string>
-    <string name="invalid_charger_text">Sadece birlikte verilen şarj cihazını kullanın</string>
-    <string name="invalid_charger_title">USB şarj desteklenmiyor</string>
     <string name="issuerecord_background_processing_label">İşleme sorunu kaydı</string>
     <string name="issuerecord_ongoing_screen_only">Kayıt sorunu</string>
     <string name="issuerecord_save_error">Sorun kaydı kaydedilirken hata oluştu</string>
@@ -2656,17 +2666,6 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="ten_minutes">10 dakika</string>
     <string name="thermal">Termal</string>
     <string name="thermal_protection_warning">Cihazınız aşırı ısındı. Şu anda bu özellik kullanılamıyor</string>
-    <string name="thermal_shutdown_dialog_help_text">Bakım adımlarına bakın</string>
-    <string name="thermal_shutdown_dialog_help_url" />
-    <string name="thermal_shutdown_dialog_message">"Telefonunuz çok sıcaktı. Dolayısıyla soğuması için kapatıldı. Telefonunuz şimdi normal çalışıyor.
-
-Telefonunuz çok ısınabilir:
-• Yoğun kaynak gerektiren uygulamaları kullanın (Oyun, video veya navigasyon uygulamaları gibi)
-• Büyük dosyaları indirin veya yükleyin
-• Telefonunuzu yüksek sıcaklıklarda kullanın"</string>
-    <string name="thermal_shutdown_message">"Telefonunuz artık normal şekilde çalışıyor.
-Daha fazla bilgi için dokunun"</string>
-    <string name="thermal_shutdown_title">Telefon ısı nedeniyle kapalı</string>
     <string name="thirty_minutes">30 dakika</string>
     <string name="thirtytwo_thousand_kb">32768 KB</string>
     <string name="thursday">Perşembe</string>

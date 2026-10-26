@@ -7,6 +7,9 @@
     <plurals name="bd_blinking_interval">
         <item quantity="other">%s saniye</item>
         <item quantity="one">%s saniye</item>
+        <item quantity="two">%s saniye</item>
+        <item quantity="few">%s saniye</item>
+        <item quantity="many">%s saniye</item>
     </plurals>
     <plurals name="braille_dots">
         <item quantity="other">%s nokta</item>
@@ -15,6 +18,10 @@
     <plurals name="dots">
         <item quantity="other">%s nokta</item>
         <item quantity="one">%s nokta</item>
+    </plurals>
+    <plurals name="list_item_file_count">
+        <item quantity="other">%d dosya</item>
+        <item quantity="one">%d dosya</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d yeni bildirim</item>

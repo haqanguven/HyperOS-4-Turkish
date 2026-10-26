@@ -78,6 +78,7 @@
     <string name="action_name_zoom_out">Uzaklaştır</string>
     <string name="add_state_header">Eklenecek menü öğelerini seçin</string>
     <string name="animation_content_description">Kamera geçiş animasyonu</string>
+    <string name="animation_stop_hint">durdur</string>
     <string name="assign_face_switch_subtitle">%s işlemi için bir yüz hareketi seçin</string>
     <string name="assign_face_switch_title">%s için kamera anahtarı atayın</string>
     <string name="assign_switch_subtitle">%1$s işlemine atamak için bir anahtara basın</string>
@@ -140,6 +141,7 @@
     <string name="cancel_recording_button_text">Kaydı durdur</string>
     <string name="cancel_recording_content_description">Kaydı iptal et</string>
     <string name="cancel_recording_dialog_title">Kayda devam edilsin mi?</string>
+    <string name="character_collapse_template">%1$d %2$s﻿</string>
     <string name="character_counter_content_description">Girilen karakter: %1$d / %2$d</string>
     <string name="character_counter_overflowed_content_description">Karakter sınırı aşıldı %1$d / %2$d</string>
     <string name="clear_keys_dialog_message">Anahtarları zaten atadınız</string>
@@ -172,11 +174,17 @@
     <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
     <string name="common_google_play_services_notification_channel_name">Google Play hizmetlerinin kullanılabilirliği</string>
     <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+    <string name="common_google_play_services_signin_required_text">"%1$s, Google Play Hizmetleri'ne bağlanamadı. Lütfen Google Hesabınızda oturum açın."</string>
+    <string name="common_google_play_services_signin_required_title">Oturum açılması gerekiyor</string>
+    <string name="common_google_play_services_try_again_text">"%1$s, Google Play Hizmetleri'ne bağlanamadı. Lütfen tekrar deneyin."</string>
+    <string name="common_google_play_services_try_again_title">Lütfen tekrar deneyin</string>
     <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin</string>
     <string name="common_google_play_services_unsupported_text">%1$s, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor</string>
+    <string name="common_google_play_services_unsupported_title">Cihaz uyumlu değil</string>
     <string name="common_google_play_services_update_button">Güncelle</string>
     <string name="common_google_play_services_update_text">Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak</string>
     <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelleyin</string>
+    <string name="common_google_play_services_updating_client_title">Google Play hizmetleri güncelleniyor</string>
     <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz</string>
     <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir</string>
     <string name="common_open_on_phone">Telefonda aç</string>
@@ -194,6 +202,7 @@
     <string name="default_action_name_auto_scan">Otomatik tarama</string>
     <string name="default_action_name_pause">Kamera anahtarını duraklatma</string>
     <string name="default_action_name_point_scan">Nokta taraması</string>
+    <string name="description_non_text_element">Öğe</string>
     <string name="dialog_confirm_delete">Sil</string>
     <string name="dialog_confirm_revert_to_default_menu">Onayla</string>
     <string name="dialog_do_not_disturb_permission_message">Anahtar erişimi menüsünden ses düzeyini ayarlamak için anahtar erişiminin rahatsız etme özelliğine erişimini etkinleştirin</string>
@@ -255,6 +264,7 @@ Bu ayar hem otomatik taramayı hem de nokta taramasını etkiler"</string>
     <string name="draggable_divider_handler_state_left_edge">Sol kenarda</string>
     <string name="draggable_divider_handler_state_right_edge">Sağ kenarda</string>
     <string name="edit_menu_state_header">Menü öğelerini taşıyın ve gizleyin</string>
+    <string name="emoji_collapse_template">" %1$d %2$s emoji"</string>
     <string name="emoji_name">%1$s emoji</string>
     <string name="enable_bluetooth_button_title">"Bluetooth'u aç"</string>
     <string name="enable_cam_switches_banner_text_label">İşlemlere yüz hareketleri atamak için önce kamera anahtarlarını etkinleştirmeniz gerekir</string>
@@ -303,11 +313,11 @@ Bu ayar hem otomatik taramayı hem de nokta taramasını etkiler"</string>
     <string name="format_font_family">Yazı tipi ailesi: %1$s</string>
     <string name="format_foreground_color">Renk %1$s</string>
     <string name="format_italic">İtalik</string>
-    <string name="format_partially">Kısmen %1$s</string>
     <string name="format_position">%2$d-%3$d karakter aralığında %1$s</string>
     <string name="format_size_bigger">Daha büyük boyut</string>
     <string name="format_size_in_px">%1$d piksel</string>
     <string name="format_size_smaller">Daha küçük boyut</string>
+    <string name="format_start">başlat: %1$s</string>
     <string name="format_strikethrough">Üstü çizili</string>
     <string name="format_underline">Altı çizili</string>
     <string name="function_off">Sözlü geri bildirim kapalı</string>
@@ -575,6 +585,8 @@ Mavi nokta alttaki kırmızı çizgiyi geçtiğinde, bir sonraki adımlara geçe
     <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
     <string name="mtrl_button_collapsed_content_description">Daraltılmış</string>
     <string name="mtrl_button_expanded_content_description">Genişletilmiş</string>
+    <string name="mtrl_button_overflow_icon_content_description">Taşma menüsü</string>
+    <string name="mtrl_button_snackbar_close_content_description">Kapat</string>
     <string name="mtrl_checkbox_state_description_checked">İşaretlendi</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Kısmi olarak işaretlendi</string>
     <string name="mtrl_checkbox_state_description_unchecked">İşaretlenmedi</string>
@@ -613,8 +625,6 @@ Mavi nokta alttaki kırmızı çizgiyi geçtiğinde, bir sonraki adımlara geçe
     <string name="mtrl_picker_toggle_to_day_selection">Takvim görünümüne geçmek için dokunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_year_selection">Yıl görünümüne geçmek için dokunun</string>
-    <string name="mtrl_picker_toggled_to_day_selection">Takvim görünümüne geçildi</string>
-    <string name="mtrl_picker_toggled_to_year_selection">Yıl görünümüne geçildi</string>
     <string name="mtrl_timepicker_cancel">İptal et</string>
     <string name="mtrl_timepicker_confirm">Tamam</string>
     <string name="name_of_enter_key">Kız</string>
@@ -630,7 +640,7 @@ Mavi nokta alttaki kırmızı çizgiyi geçtiğinde, bir sonraki adımlara geçe
     <string name="not_set">Ayarlanmadı</string>
     <string name="number_of_gestures_heading">Anahtar sayısını seçin</string>
     <string name="number_of_switches_heading">Anahtar sayısını seçin</string>
-    <string name="one_face_switch_description_text">"Vurguyu otomatik olarak ekrandaki öğelerin üzerinde taşımak üzere otomatik taramayı başlatmak için bir yüz hareketi kullanmanıza olanak tanır. Seçim yapmak için hareketi ikinci kez yapın. Ayrıca kamera anahtarlarını geçici bir süreliğine duraklatmak için ikinci bir hareket ekleyebilirsiniz"</string>
+    <string name="one_face_switch_description_text">Vurguyu otomatik olarak ekrandaki öğelerin üzerinde taşımak üzere otomatik taramayı başlatmak için bir yüz hareketi kullanmanıza olanak tanır. Seçim yapmak için hareketi ikinci kez yapın. Ayrıca kamera anahtarlarını geçici bir süreliğine duraklatmak için ikinci bir hareket ekleyebilirsiniz</string>
     <string name="one_switch">Bir anahtar</string>
     <string name="one_switch_description_text">Öğeler arasında otomatik olarak geçiş yapmaya başlamak için anahtara basın. Vurgulanan öğeyi seçmek için tekrar basın</string>
     <string name="opensearchview_navigation_content_description">Geri</string>
@@ -681,7 +691,6 @@ Mavi nokta alttaki kırmızı çizgiyi geçtiğinde, bir sonraki adımlara geçe
     <string name="pref_face_gesture_duration_fastest">En kısa hareket süresi</string>
     <string name="pref_face_gesture_duration_summary">%s saniye</string>
     <string name="pref_face_gesture_duration_title">Hareket süresi</string>
-    <string name="pref_label_sa_face_gesture_edit_assignment">Atamayı düzenle</string>
     <string name="pref_sa_combined_switch_add_cam_switches_button_label">Kamera anahtarı ekle</string>
     <string name="pref_sa_combined_switch_clear_physical_switches_button_label">Fiziksel anahtarları temizle</string>
     <string name="pref_sa_combined_switch_config_cam_switches_settings_content_description">Düğme için ayarları yapılandırın: %s</string>
@@ -787,10 +796,12 @@ Cihazınız yine de bağlanmazsa Bluetooth ayarlarına gidin ve yeniden bağlanm
     <string name="slow_radio_button_title_content_description">Yavaş (%1$s saniye gecikme)</string>
     <string name="speak_selected_item_or_group_summary">Bir öğenin veya grubun adını seçildikten sonra sesli oku</string>
     <string name="split_668907834">Visionkit modülü ile kameralar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_speed_heading">Tarama hızını seçin</string>
     <string name="step_speed_subheading">Vurgunun sonrakine geçmeden önce bir öğede ne kadar süreyle kalacağını seçin</string>
     <string name="stop_record_shortcut_title">Kaydı durdur</string>
     <string name="subtitle_pref_press_on_release">Anahtar serbest bırakıldığında işlemi gerçekleştir</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_pref_auto_select">Vurgulanan öğeyi otomatik olarak seçin. Öğe seçilemiyorsa veya bu ayar kapalıysa kullanılabilir işlemlerden oluşan bir menü görürsünüz</string>
     <string name="summary_pref_cam_cursor_calibration_custom">Özel kalibrasyon kullanılıyor</string>
     <string name="summary_pref_cam_cursor_calibration_default">Varsayılan kalibrasyon kullanılıyor</string>
@@ -809,6 +820,7 @@ Cihazınız yine de bağlanmazsa Bluetooth ayarlarına gidin ve yeniden bağlanm
     <string name="summary_pref_face_switches_enhanced_visual_feedback_enabled">Bir hareketi ne kadar sürdürdüğünüzü belirten görsel bir işaret gösterir</string>
     <string name="summary_pref_face_switches_keep_screen_on_enabled">Kamera Anahtarları etkin olduğu sürece ekranı açık tutar. Ekran kapanırsa kamera anahtarları ekran kilidini açamaz</string>
     <string name="summary_pref_face_switches_no_face_detected_message">Yüz algılanmadı</string>
+    <string name="summary_pref_face_switches_no_face_detected_symbol">!</string>
     <string name="summary_pref_face_switches_playground_gesture_detection_label">Herhangi bir yüz hareketini yapın. Hareket kayıtlıysa adı görünür. Çıkmak için yüz hareketini %1$d saniye boyunca tutun</string>
     <string name="summary_pref_face_switches_playground_perform_gesture_label">Başınızı sabit tutun ve yüzünüzü kameraya dönün. Ardından %s</string>
     <string name="summary_pref_point_scan">Belirli bir yatay ve dikey konumu seçmek için hareketli çizgileri kullanın. Nokta taramasına başlamak için %1$s anahtarına basın. %2$s</string>
@@ -823,6 +835,7 @@ Cihazınız yine de bağlanmazsa Bluetooth ayarlarına gidin ve yeniden bağlanm
     <string name="switch_access_back_menu">Geri</string>
     <string name="switch_access_cancel_edit">İptal et</string>
     <string name="switch_access_close_menu">Kapat</string>
+    <string name="switch_access_dup_bounds_format">%1$s (%2$d)</string>
     <string name="switch_access_edit_menu">Düzen menüsü</string>
     <string name="switch_access_exit_edit_menu">Çık</string>
     <string name="switch_access_finish_edit">Son</string>
@@ -857,6 +870,7 @@ Cihazınız yine de bağlanmazsa Bluetooth ayarlarına gidin ve yeniden bağlanm
     <string name="switch_access_spoken_feedback_item_selected">%1$s seçildi</string>
     <string name="switch_access_spoken_feedback_items">%1$s öğe</string>
     <string name="switch_access_spoken_feedback_row_selected">satır seçildi</string>
+    <string name="switch_access_spoken_feedback_to">%1$s - %2$s</string>
     <string name="switch_access_spoken_feedback_unknown">Bilinmeyen öğe</string>
     <string name="switch_game_cam_cursor_subheading">Oyunu oynamak için ekrandaki imleci işaretlemek istediğiniz kareye gelene kadar başınızı hareket ettirin. Ardından o kareye bir X işareti koymak için %1$s tuşuna basın</string>
     <string name="switch_game_cam_switches_subheading">Vurguyu taşımak ve tıklamak istediğiniz kareyi seçmek için anahtarlarınızı kullanarak oyunu oynayabilirsiniz.</string>
@@ -1129,6 +1143,7 @@ Cihazınız yine de bağlanmazsa Bluetooth ayarlarına gidin ve yeniden bağlanm
     <string name="two_switches_title">İki anahtar</string>
     <string name="untitled_window">başlıksız</string>
     <string name="up_threshold_label">Yukarı</string>
+    <string name="url_dialog_table">%1$s (%2$s)</string>
     <string name="usb_no_devices_connected_message">Herhangi bir USB cihazı bulunamadı. Cihazınızın gerektiği gibi bağlanmış olduğundan emin olun</string>
     <string name="usb_switch_description_text">USB üzerinden fiziksel olarak bir anahtar bağlayın</string>
     <string name="usb_switch_option_text">USB anahtarı</string>
