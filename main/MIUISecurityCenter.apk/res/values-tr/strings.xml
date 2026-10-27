@@ -2556,11 +2556,6 @@ gönüllüsü"</string>
     <string name="game_center_network_setting_tip_pad">Ayarlarda güvenliğin internete bağlanmasına izin verin</string>
     <string name="game_center_recommend">Önerilen</string>
     <string name="game_else_function">Diğer</string>
-    <string name="game_island_channel_name">Oyun bildirimleri</string>
-    <string name="game_island_click_enter_game">Oyunu açmak için dokunun</string>
-    <string name="game_island_enter_game">Aç</string>
-    <string name="game_island_revived">Yeniden doğdu</string>
-    <string name="game_island_reviving">Yeniden doğuyor</string>
     <string name="game_manual_record_setting_king">Ayarlar</string>
     <string name="game_manual_record_setting_peace">Ayarlar</string>
     <string name="game_manual_record_setting_setting">Ayarlar</string>
@@ -4510,10 +4505,6 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="open_physical_sim_self_detection_noti_title">Fiziksel SIM kontrolünü açın</string>
     <string name="open_right_now">Kırmızı zarfları derhal tut</string>
     <string name="open_right_now_short">Hemen kap</string>
-    <string name="open_screen_resolution_tip_cancel">İptal et</string>
-    <string name="open_screen_resolution_tip_content">Devam etmeden önce ayarlarda sistem ekran çözünürlüğünüzü WQHD+ olarak ayarlayın</string>
-    <string name="open_screen_resolution_tip_set">Ayarlar</string>
-    <string name="open_screen_resolution_tip_title">Dikkat</string>
     <string name="open_shut_down_password">Aç</string>
     <string name="open_wlan_title">Bu uygulamanın wifi ağını açıp kapatmasına izin ver</string>
     <string name="operator_location_settings">Taşıyıcıyı ve konumu ayarla</string>
@@ -4977,8 +4968,6 @@ kapat"</string>
     <string name="peep_protection_v2_cue_summary">Bu özellik yalnızca bu cihaz modeline özeldir</string>
     <string name="peep_protection_v2_deep_mode">Geliştirilmiş gizlilik</string>
     <string name="peep_protection_v2_deep_mode_desc">Ekranınızı başkalarının görüntülemesini zorlaştırın</string>
-    <string name="peep_protection_v2_enhanced_effect_summary">Ekranınızın başkaları tarafından görülmesini zorlaştırmak için ekran parlaklığını azaltın</string>
-    <string name="peep_protection_v2_enhanced_effect_title">Gelişmiş gizlilik</string>
     <string name="peep_protection_v2_expert_mode_hint">"* Xiaomi Hyper XiaoAi'yi Pro moda geçirmeniz gerekmektedir"</string>
     <string name="peep_protection_v2_face_need_input_hint">Yüz verileri gereklidir</string>
     <string name="peep_protection_v2_first_close_message">Akıllı gizlilik ekranını Kontrol merkezi > Düzenle > Sistem geçişleri bölümünden ekleyerek hızlıca açıp kapatabilirsiniz</string>
@@ -5008,7 +4997,6 @@ Gizlilik ekranı yatay modda duraklatılacak ve dikey moda döndüğünüzde oto
 Bazı üçüncü taraf temalar henüz Kilit ekranı bildirimleri için gizlilik ekranını desteklememektedir.
 Konumlara varış veya ayrılışların algılanmasında gecikmeler olabilir"</string>
     <string name="peep_protection_v2_learn_more_limits_desc_global">"Bu özellik güç tüketimini biraz artırabilir. Pil tasarrufu açıkken pil tasarrufu için geçici olarak kapatılacaktır.
-
 HDR içeriği önizlenirken, görüntü kalitesini sağlamak için Akıllı gizlilik ekranı için parlaklık telafisi duraklatılacaktır.
 Gizlilik ekranı yatay modda duraklatılacak ve dikey moda döndüğünüzde otomatik olarak yeniden başlayacaktır.
 Bazı üçüncü taraf temalar henüz Kilit ekranı bildirimleri için gizlilik ekranını desteklememektedir"</string>

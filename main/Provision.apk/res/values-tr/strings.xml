@@ -695,7 +695,7 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="permission_message_introduction">Engellenen kişilere mesaj göndermek içindir</string>
     <string name="permission_mi_account">Erişim arama durumu</string>
     <string name="permission_multi_user_state">Cihazın çoklu kullanıcı durumuna erişim</string>
-    <string name="permission_multi_user_state_camera_mind_summary">İkinci Alan gibi çoklu kullanıcı senaryolarında sistem kaynaklarını uygun şekilde tahsis etmek içindir</string>
+    <string name="permission_multi_user_state_camera_mind_summary">İkinci alan gibi çoklu kullanıcı senaryolarında sistem kaynaklarını uygun şekilde tahsis etmek içindir</string>
     <string name="permission_not_agree_service_not_working">Bahsi geçen gerekli izinleri kabul etmezseniz, bu hizmeti kullanamazsınız</string>
     <string name="permission_number">Telefon numarasına erişim</string>
     <string name="permission_number_introduction">Araç sistemleri ve Bluetooth kulaklıklarla Bluetooth bağlantısı kurmak içindir</string>
