@@ -5,7 +5,7 @@
     <string name="a11y_action_pip_move_left">Sola taşı</string>
     <string name="a11y_action_pip_move_right">Sağa taşı</string>
     <string name="a11y_action_pip_move_up">Yukarı taşı</string>
-    <string name="a11y_pip_menu_entered">Resim içinde resim menüsü.</string>
+    <string name="a11y_pip_menu_entered">Resim içinde resim menüsü</string>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
     <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
@@ -446,7 +446,7 @@
     <string name="tooltip_description">İpucu</string>
     <string name="tooltip_label">ipucunu göster</string>
     <string name="user_aspect_ratio_settings_button_description">En-boy oranını değiştir</string>
-    <string name="user_aspect_ratio_settings_button_hint">Bu uygulamanın en-boy oranını Ayarlar bölümünden değiştirin</string>
+    <string name="user_aspect_ratio_settings_button_hint">Bu uygulamanın en-boy oranını ayarlar bölümünden değiştirin</string>
     <string name="windowing_app_handle_education_tooltip">Uygulama menüsünü burada bulabilirsiniz</string>
     <string name="windowing_desktop_mode_exit_education_tooltip">Uygulama menüsünden istediğiniz zaman tam ekrana dönebilirsiniz</string>
     <string name="windowing_desktop_mode_image_button_education_tooltip">Birden fazla uygulamayı birlikte açmak için masaüstü pencerelerini kullanın</string>
