@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">gecikme: %d saniye</item>
+        <item quantity="one">gecikme: %d saniye</item>
+    </plurals>
+    <plurals name="beidou_receiving">
+        <item quantity="other">Alınıyor (%d saniye)</item>
+        <item quantity="one">Alınıyor (%d saniye)</item>
+    </plurals>
+    <plurals name="beidou_sending">
+        <item quantity="other">Gönderiliyor (%d saniye)</item>
+        <item quantity="one">Sending (%d saniye)</item>
+    </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">%s kişiye kadar ekleyebilirsiniz. Yeniden seçin</item>
+        <item quantity="one">%s kişiye kadar ekleyebilirsiniz. Yeniden seçin</item>
+    </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d numara</item>
+        <item quantity="one">%d numara</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d numara silinecektir</item>
+        <item quantity="one">%d numara silinecektir</item>
+    </plurals>
+    <plurals name="pin_attempts">
+        <item quantity="other">"
+%d deneme kaldı"</item>
+        <item quantity="one">"
+%d deneme kaldı"</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="satellite_low_battery_turn_off_message">
+        <item quantity="other">Pil zayıf. Tiantong uydu iletişimleri %d saniye içinde kapanacak</item>
+        <item quantity="one">Pil zayıf. Tiantong uydu iletişimleri %d saniye içinde kapanacak</item>
+    </plurals>
+    <plurals name="satellite_pa_megathermal_turn_off_message">
+        <item quantity="other">Cihaz aşırı ısındı. Uydu iletişimi %d saniye içinde kapanacak</item>
+        <item quantity="one">Cihaz aşırı ısındı. Uydu iletişimi %d saniye içinde kapanacak</item>
+    </plurals>
+    <plurals name="satellite_privacy_withdrawal_dialog_disable_negative">
+        <item quantity="other">Hizmetleri iptal et (%d saniye)</item>
+        <item quantity="one">Hizmetleri iptal et (%d saniye)</item>
+    </plurals>
+</resources>
