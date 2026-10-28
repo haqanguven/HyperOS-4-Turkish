@@ -5,8 +5,8 @@
         <item quantity="one">%d saniye</item>
     </plurals>
     <plurals name="low_memory_toast">
-        <item quantity="other">RAM kullanımı sınırına ulaştı. Çoklu pencere modu %d saniye içinde otomatik olarak kapatılacak</item>
-        <item quantity="one">RAM kullanımı sınırına ulaştı. Çoklu pencere modu %d saniye içinde otomatik olarak kapatılacak</item>
+        <item quantity="other">Ram kullanımı sınırına ulaştı. Çoklu pencere modu %d saniye içinde otomatik olarak kapatılacak</item>
+        <item quantity="one">Ram kullanımı sınırına ulaştı. Çoklu pencere modu %d saniye içinde otomatik olarak kapatılacak</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d yeni bildirim</item>
